@@ -1,0 +1,32 @@
+# Environments
+.env
+
+# Workspace / IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data - Ignore contents but keep folders via .gitkeep
+data/pnoa-historic/*
+!data/pnoa-historic/.gitkeep
+
+data/PV03/*
+!data/PV03/.gitkeep
+
+data/pnoa-segmentation/*
+!data/pnoa-segmentation/.gitkeep
+
+data/raster/*
+!data/raster/.gitkeep
+
+data/models/*
+!data/models/.gitkeep
+
+# Output
+output/

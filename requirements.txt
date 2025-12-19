@@ -1,0 +1,16 @@
+geopandas
+owslib
+pyproj
+pandas
+rasterio
+numpy
+opencv-python
+tensorflow
+segmentation-models
+matplotlib
+python-dotenv
+pillow
+scipy
+shapely
+fiona
+rasterstats
