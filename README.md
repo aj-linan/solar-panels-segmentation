@@ -54,6 +54,16 @@ Scripts are numbered to follow the logical execution order:
 3.  **Analysis**: Run `03_calculate_solar_area.py` to obtain the temporal evolution table and the growth plot.
 4.  **Export**: Run `04_merge_tiles.py` to merge tiles into a single GeoTIFF compatible with QGIS/ArcGIS.
 
+## Data Sources
+
+The model has been trained and validated using the following datasets:
+
+-   **PV03 Dataset**: A photovoltaic (PV) dataset from satellite and aerial imagery. The dataset includes three groups of PV samples collected at the spatial resolution of 0.8m, 0.3m and 0.1m, namely PV08 from Gaofen-2 and Beijing-2 imagery, PV03 from aerial photography, and PV01 from UAV orthophotos.
+    -   **PV03 (Aerial)**: Ground samples categorized into shrub land, grassland, cropland, saline-alkali, and water surface.
+    -   **Official Document**: [Preprint ESSD](https://essd.copernicus.org/preprints/essd-2021-270/)
+    -   **Download**: [Zenodo (Version 5171712)](https://zenodo.org/record/5171712)
+-   **PNOA (Spain)**: Historical aerial orthophotos provided via WMS by the Spanish IGN.
+
 ## Technologies Used
 
 - **Deep Learning**: TensorFlow, Keras, Segmentation Models.

@@ -1,0 +1,1668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>3399333</id>
+      <size>480</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-12-17 08:17:47.038027+00:00</created>
+      <updated>2025-12-26 09:40:13.512016+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>479</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>3400668</id>
+          <start>0</start>
+          <stop>479</stop>
+          <url>https://app.cvat.ai/api/jobs/3399333</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>albert_j.</username>
+        <email>alblinmah@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>solar_panel</name>
+          <color>#8c78f0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-12-26 09:45:28.644537+00:00</dumped>
+  </meta>
+  <image id="0" name="tile_00_00.jpeg" width="512" height="512">
+  </image>
+  <image id="1" name="tile_00_01.jpeg" width="512" height="512">
+  </image>
+  <image id="2" name="tile_00_02.jpeg" width="512" height="512">
+  </image>
+  <image id="3" name="tile_00_03.jpeg" width="512" height="512">
+  </image>
+  <image id="4" name="tile_00_04.jpeg" width="512" height="512">
+  </image>
+  <image id="5" name="tile_00_05.jpeg" width="512" height="512">
+  </image>
+  <image id="6" name="tile_00_06.jpeg" width="512" height="512">
+  </image>
+  <image id="7" name="tile_00_07.jpeg" width="512" height="512">
+  </image>
+  <image id="8" name="tile_00_08.jpeg" width="512" height="512">
+  </image>
+  <image id="9" name="tile_00_09.jpeg" width="512" height="512">
+  </image>
+  <image id="10" name="tile_00_10.jpeg" width="512" height="512">
+  </image>
+  <image id="11" name="tile_00_11.jpeg" width="512" height="512">
+  </image>
+  <image id="12" name="tile_00_12.jpeg" width="512" height="512">
+  </image>
+  <image id="13" name="tile_00_13.jpeg" width="512" height="512">
+  </image>
+  <image id="14" name="tile_00_14.jpeg" width="512" height="512">
+  </image>
+  <image id="15" name="tile_00_15.jpeg" width="512" height="512">
+  </image>
+  <image id="16" name="tile_00_16.jpeg" width="512" height="512">
+  </image>
+  <image id="17" name="tile_00_17.jpeg" width="512" height="512">
+  </image>
+  <image id="18" name="tile_00_18.jpeg" width="512" height="512">
+  </image>
+  <image id="19" name="tile_00_19.jpeg" width="512" height="512">
+  </image>
+  <image id="20" name="tile_00_20.jpeg" width="512" height="512">
+  </image>
+  <image id="21" name="tile_00_21.jpeg" width="512" height="512">
+  </image>
+  <image id="22" name="tile_00_22.jpeg" width="512" height="512">
+  </image>
+  <image id="23" name="tile_00_23.jpeg" width="512" height="512">
+  </image>
+  <image id="24" name="tile_01_00.jpeg" width="512" height="512">
+  </image>
+  <image id="25" name="tile_01_01.jpeg" width="512" height="512">
+  </image>
+  <image id="26" name="tile_01_02.jpeg" width="512" height="512">
+  </image>
+  <image id="27" name="tile_01_03.jpeg" width="512" height="512">
+  </image>
+  <image id="28" name="tile_01_04.jpeg" width="512" height="512">
+  </image>
+  <image id="29" name="tile_01_05.jpeg" width="512" height="512">
+  </image>
+  <image id="30" name="tile_01_06.jpeg" width="512" height="512">
+  </image>
+  <image id="31" name="tile_01_07.jpeg" width="512" height="512">
+  </image>
+  <image id="32" name="tile_01_08.jpeg" width="512" height="512">
+  </image>
+  <image id="33" name="tile_01_09.jpeg" width="512" height="512">
+  </image>
+  <image id="34" name="tile_01_10.jpeg" width="512" height="512">
+  </image>
+  <image id="35" name="tile_01_11.jpeg" width="512" height="512">
+  </image>
+  <image id="36" name="tile_01_12.jpeg" width="512" height="512">
+  </image>
+  <image id="37" name="tile_01_13.jpeg" width="512" height="512">
+  </image>
+  <image id="38" name="tile_01_14.jpeg" width="512" height="512">
+  </image>
+  <image id="39" name="tile_01_15.jpeg" width="512" height="512">
+  </image>
+  <image id="40" name="tile_01_16.jpeg" width="512" height="512">
+  </image>
+  <image id="41" name="tile_01_17.jpeg" width="512" height="512">
+  </image>
+  <image id="42" name="tile_01_18.jpeg" width="512" height="512">
+  </image>
+  <image id="43" name="tile_01_19.jpeg" width="512" height="512">
+  </image>
+  <image id="44" name="tile_01_20.jpeg" width="512" height="512">
+  </image>
+  <image id="45" name="tile_01_21.jpeg" width="512" height="512">
+  </image>
+  <image id="46" name="tile_01_22.jpeg" width="512" height="512">
+  </image>
+  <image id="47" name="tile_01_23.jpeg" width="512" height="512">
+  </image>
+  <image id="48" name="tile_02_00.jpeg" width="512" height="512">
+  </image>
+  <image id="49" name="tile_02_01.jpeg" width="512" height="512">
+  </image>
+  <image id="50" name="tile_02_02.jpeg" width="512" height="512">
+  </image>
+  <image id="51" name="tile_02_03.jpeg" width="512" height="512">
+  </image>
+  <image id="52" name="tile_02_04.jpeg" width="512" height="512">
+    <mask label="solar_panel" source="semi-auto" occluded="0" rle="0, 2089, 2, 48, 3, 48, 3, 47, 4, 46, 5, 46, 5, 45, 6, 44, 7, 42, 9, 39, 12, 38, 13, 37, 14, 36, 15, 35, 16, 34, 17, 33, 18, 33, 18, 32, 19, 31, 20, 29, 22, 26, 25, 24, 27, 23, 28, 23, 28, 23, 28, 22, 29, 21, 30, 20, 31, 19, 32, 16, 35, 12, 39, 12, 39, 11, 40, 11, 40, 10, 42, 9, 42, 7, 45, 5, 44" left="461" top="0" width="51" height="78" z_order="0">
+    </mask>
+  </image>
+  <image id="53" name="tile_02_05.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="326.03,59.07;326.53,159.07;329.51,158.57;506.12,16.28;506.12,0.00;400.85,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="503.82,60.10;387.23,153.57;387.17,351.74;394.62,352.35;437.05,316.12;437.72,410.81;449.90,411.16;450.64,500.45;462.55,500.84;462.42,510.76;462.54,512.00;507.04,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="54" name="tile_02_06.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="417.85,0.35;362.02,44.68;361.44,145.41;423.61,96.48;425.91,190.88;448.94,175.92;451.82,272.05;500.17,233.48;502.47,329.61;512.00,330.97;512.00,0.35" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.24,420.31;400.62,512.00;512.00,512.00;512.00,467.74" z_order="0">
+    </polygon>
+  </image>
+  <image id="55" name="tile_02_07.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.24,428.48;416.96,512.00;510.88,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="56" name="tile_02_08.jpeg" width="512" height="512">
+  </image>
+  <image id="57" name="tile_02_09.jpeg" width="512" height="512">
+  </image>
+  <image id="58" name="tile_02_10.jpeg" width="512" height="512">
+  </image>
+  <image id="59" name="tile_02_11.jpeg" width="512" height="512">
+  </image>
+  <image id="60" name="tile_02_12.jpeg" width="512" height="512">
+  </image>
+  <image id="61" name="tile_02_13.jpeg" width="512" height="512">
+  </image>
+  <image id="62" name="tile_02_14.jpeg" width="512" height="512">
+  </image>
+  <image id="63" name="tile_02_15.jpeg" width="512" height="512">
+  </image>
+  <image id="64" name="tile_02_16.jpeg" width="512" height="512">
+  </image>
+  <image id="65" name="tile_02_17.jpeg" width="512" height="512">
+  </image>
+  <image id="66" name="tile_02_18.jpeg" width="512" height="512">
+  </image>
+  <image id="67" name="tile_02_19.jpeg" width="512" height="512">
+  </image>
+  <image id="68" name="tile_02_20.jpeg" width="512" height="512">
+  </image>
+  <image id="69" name="tile_02_21.jpeg" width="512" height="512">
+  </image>
+  <image id="70" name="tile_02_22.jpeg" width="512" height="512">
+  </image>
+  <image id="71" name="tile_02_23.jpeg" width="512" height="512">
+  </image>
+  <image id="72" name="tile_03_00.jpeg" width="512" height="512">
+  </image>
+  <image id="73" name="tile_03_01.jpeg" width="512" height="512">
+  </image>
+  <image id="74" name="tile_03_02.jpeg" width="512" height="512">
+  </image>
+  <image id="75" name="tile_03_03.jpeg" width="512" height="512">
+  </image>
+  <image id="76" name="tile_03_04.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="1.67,0.06;0.00,39.20;0.00,41.87;12.36,32.16;12.72,127.38;18.34,128.45;49.63,101.53;50.26,195.95;56.86,195.95;112.14,151.55;112.67,246.50;119.36,246.50;199.34,180.08;200.94,273.70;206.74,273.78;249.35,236.87;250.51,332.63;256.49,332.36;311.68,285.82;313.10,381.31;319.79,381.31;512.00,223.70;512.00,116.26;511.49,0.00;51.14,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="77" name="tile_03_05.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="62.38,0.00;1.50,51.30;1.96,512.00;356.20,512.00;355.57,442.84;382.22,444.10;388.67,434.66;399.84,434.66;401.53,512.00;512.00,512.00;512.00,0.23;432.56,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="78" name="tile_03_06.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="510.32,151.73;65.79,512.00;512.00,512.00;512.00,335.28" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.81,0.55;420.69,0.00;512.00,0.00;512.00,51.65;511.65,109.77;9.53,512.00;0.81,512.00;0.81,420.14;25.46,401.49;25.46,310.24;11.47,311.58;6.14,320.90;1.48,321.57" z_order="0">
+    </polygon>
+  </image>
+  <image id="79" name="tile_03_07.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="510.98,18.53;510.98,18.53;0.81,431.46;0.00,483.09;0.00,512.00;512.00,512.00;512.00,169.64" z_order="0">
+    </polygon>
+  </image>
+  <image id="80" name="tile_03_08.jpeg" width="512" height="512">
+  </image>
+  <image id="81" name="tile_03_09.jpeg" width="512" height="512">
+  </image>
+  <image id="82" name="tile_03_10.jpeg" width="512" height="512">
+  </image>
+  <image id="83" name="tile_03_11.jpeg" width="512" height="512">
+  </image>
+  <image id="84" name="tile_03_12.jpeg" width="512" height="512">
+  </image>
+  <image id="85" name="tile_03_13.jpeg" width="512" height="512">
+  </image>
+  <image id="86" name="tile_03_14.jpeg" width="512" height="512">
+  </image>
+  <image id="87" name="tile_03_15.jpeg" width="512" height="512">
+  </image>
+  <image id="88" name="tile_03_16.jpeg" width="512" height="512">
+  </image>
+  <image id="89" name="tile_03_17.jpeg" width="512" height="512">
+  </image>
+  <image id="90" name="tile_03_18.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="386.23,0.00;386.23,154.08;512.00,155.55;512.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="445.48,175.73;489.26,175.24;490.75,337.42;459.41,337.92;459.41,278.72;445.48,277.72" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="311.16,0.97;311.16,155.56;366.90,156.30;365.79,0.22" z_order="0">
+    </polygon>
+  </image>
+  <image id="91" name="tile_03_19.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="420.60" ytl="344.88" xbr="512.00" ybr="512.00" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="tile_03_20.jpeg" width="512" height="512">
+  </image>
+  <image id="93" name="tile_03_21.jpeg" width="512" height="512">
+  </image>
+  <image id="94" name="tile_03_22.jpeg" width="512" height="512">
+  </image>
+  <image id="95" name="tile_03_23.jpeg" width="512" height="512">
+  </image>
+  <image id="96" name="tile_04_00.jpeg" width="512" height="512">
+  </image>
+  <image id="97" name="tile_04_01.jpeg" width="512" height="512">
+  </image>
+  <image id="98" name="tile_04_02.jpeg" width="512" height="512">
+  </image>
+  <image id="99" name="tile_04_03.jpeg" width="512" height="512">
+  </image>
+  <image id="100" name="tile_04_04.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.71,0.11;16.25,0.00;68.37,0.00;68.87,64.79;78.32,57.33;80.31,158.32;1.21,221.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="101" name="tile_04_05.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.84,0.00;0.92,333.20;0.54,511.68;29.31,512.00;68.95,512.00;68.19,480.00;62.95,480.00;45.46,494.65;46.16,401.09;37.76,401.09;8.01,426.06;8.94,327.73;408.79,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="102" name="tile_04_06.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="186.03,-0.00;1.16,148.92;0.87,512.00;410.44,512.00;510.76,434.32;510.36,337.55;500.23,337.09;496.37,336.86;496.02,249.02;483.19,248.56;482.38,159.17;477.09,159.46;459.36,172.41;459.36,0.01;457.83,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="128.81,1.49;0.68,105.09;0.77,0.00;129.48,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="103" name="tile_04_07.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.61,241.80;181.27,512.00;459.58,512.00;459.58,486.46;511.18,446.47" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="2.83,17.71;24.97,0.00;82.34,0.00;81.11,49.01;143.10,0.00;153.73,0.00;156.89,0.15;157.25,87.53;238.48,21.37;245.52,21.01;244.90,116.42;338.52,40.18;347.08,40.18;347.61,133.98;438.29,58.37;500.88,7.37;508.37,7.19;508.19,206.20;130.41,511.67;50.11,512.00;1.58,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="104" name="tile_04_08.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="150.96" ytl="505.24" xbr="158.31" ybr="512.00" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="22.21,512.00;77.63,466.46;82.36,465.17;82.79,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="105" name="tile_04_09.jpeg" width="512" height="512">
+  </image>
+  <image id="106" name="tile_04_10.jpeg" width="512" height="512">
+  </image>
+  <image id="107" name="tile_04_11.jpeg" width="512" height="512">
+  </image>
+  <image id="108" name="tile_04_12.jpeg" width="512" height="512">
+  </image>
+  <image id="109" name="tile_04_13.jpeg" width="512" height="512">
+  </image>
+  <image id="110" name="tile_04_14.jpeg" width="512" height="512">
+  </image>
+  <image id="111" name="tile_04_15.jpeg" width="512" height="512">
+  </image>
+  <image id="112" name="tile_04_16.jpeg" width="512" height="512">
+  </image>
+  <image id="113" name="tile_04_17.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="46.00" ytl="0.70" xbr="356.84" ybr="22.57" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="tile_04_18.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="502.26" ytl="192.80" xbr="512.00" ybr="356.86" z_order="0">
+    </box>
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="0.45" xbr="398.79" ybr="158.39" z_order="0">
+    </box>
+    <box label="solar_panel" source="manual" occluded="0" xtl="480.92" ytl="0.82" xbr="512.00" ybr="160.24" z_order="0">
+    </box>
+    <box label="solar_panel" source="manual" occluded="0" xtl="45.68" ytl="370.53" xbr="355.63" ybr="512.00" z_order="0">
+    </box>
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="178.92" xbr="476.77" ybr="340.11" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="tile_04_19.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.65" ytl="343.84" xbr="401.51" ybr="512.00" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="13.24,163.36;219.44,162.31;219.97,216.35;269.81,216.87;270.86,327.06;22.69,324.96;22.69,286.13;13.77,287.70" z_order="0">
+    </polygon>
+  </image>
+  <image id="116" name="tile_04_20.jpeg" width="512" height="512">
+  </image>
+  <image id="117" name="tile_04_21.jpeg" width="512" height="512">
+  </image>
+  <image id="118" name="tile_04_22.jpeg" width="512" height="512">
+  </image>
+  <image id="119" name="tile_04_23.jpeg" width="512" height="512">
+  </image>
+  <image id="120" name="tile_05_00.jpeg" width="512" height="512">
+  </image>
+  <image id="121" name="tile_05_01.jpeg" width="512" height="512">
+  </image>
+  <image id="122" name="tile_05_02.jpeg" width="512" height="512">
+  </image>
+  <image id="123" name="tile_05_03.jpeg" width="512" height="512">
+  </image>
+  <image id="124" name="tile_05_04.jpeg" width="512" height="512">
+  </image>
+  <image id="125" name="tile_05_05.jpeg" width="512" height="512">
+  </image>
+  <image id="126" name="tile_05_06.jpeg" width="512" height="512">
+  </image>
+  <image id="127" name="tile_05_07.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="18.30,0.00;20.31,76.51;31.15,76.51;32.50,176.09;0.32,202.55;0.32,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,241.67;82.05,176.99;84.47,271.69;94.79,265.02;94.79,369.43;0.09,444.71;0.00,429.57" z_order="0">
+    </polygon>
+  </image>
+  <image id="128" name="tile_05_08.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="400.36" ytl="0.27" xbr="511.69" ybr="46.32" z_order="0">
+    </box>
+    <box label="solar_panel" source="manual" occluded="0" xtl="38.52" ytl="0.80" xbr="371.46" ybr="45.80" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="tile_05_09.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="399.60,159.08;400.21,258.04;412.96,258.64;413.26,458.43;399.97,458.19;400.09,511.37;511.73,511.73;511.67,159.93" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="37.64,157.20;38.07,511.88;88.39,512.00;370.23,512.00;370.01,457.92;357.83,457.92;358.37,259.15;372.41,259.15;370.56,158.29" z_order="0">
+    </polygon>
+  </image>
+  <image id="130" name="tile_05_10.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="328.52,0.00;329.44,78.55;334.04,80.95;340.50,80.95;340.50,174.46;347.42,174.72;440.00,141.89;441.26,240.93;448.92,241.06;503.27,221.21;503.54,319.32;511.80,319.52;511.53,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="131" name="tile_05_11.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="328.96,490.81;329.39,510.59;448.99,512.00;511.28,512.00;512.00,443.80;512.00,431.08" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.62,375.53;341.03,435.27;340.31,334.03;353.27,332.83;353.22,230.76;378.75,221.31;378.48,121.09;390.96,121.09;390.77,18.10;443.11,0.00;511.28,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="132" name="tile_05_12.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,288.40;465.00,304.60;465.12,507.89;453.87,507.42;454.05,512.00;495.30,512.00;512.00,511.51;512.00,459.04" z_order="0">
+    </polygon>
+  </image>
+  <image id="133" name="tile_05_13.jpeg" width="512" height="512">
+  </image>
+  <image id="134" name="tile_05_14.jpeg" width="512" height="512">
+  </image>
+  <image id="135" name="tile_05_15.jpeg" width="512" height="512">
+  </image>
+  <image id="136" name="tile_05_16.jpeg" width="512" height="512">
+  </image>
+  <image id="137" name="tile_05_17.jpeg" width="512" height="512">
+  </image>
+  <image id="138" name="tile_05_18.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.20,192.90;51.50,193.20;51.62,301.47;44.28,302.00;44.70,355.70;0.70,355.50" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,159.24;131.23,159.24;132.00,49.40;73.30,50.00;73.44,0.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="139" name="tile_05_19.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="508.10" xbr="72.86" ybr="512.00" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="tile_05_20.jpeg" width="512" height="512">
+  </image>
+  <image id="141" name="tile_05_21.jpeg" width="512" height="512">
+  </image>
+  <image id="142" name="tile_05_22.jpeg" width="512" height="512">
+  </image>
+  <image id="143" name="tile_05_23.jpeg" width="512" height="512">
+  </image>
+  <image id="144" name="tile_06_00.jpeg" width="512" height="512">
+  </image>
+  <image id="145" name="tile_06_01.jpeg" width="512" height="512">
+  </image>
+  <image id="146" name="tile_06_02.jpeg" width="512" height="512">
+  </image>
+  <image id="147" name="tile_06_03.jpeg" width="512" height="512">
+  </image>
+  <image id="148" name="tile_06_04.jpeg" width="512" height="512">
+  </image>
+  <image id="149" name="tile_06_05.jpeg" width="512" height="512">
+  </image>
+  <image id="150" name="tile_06_06.jpeg" width="512" height="512">
+  </image>
+  <image id="151" name="tile_06_07.jpeg" width="512" height="512">
+  </image>
+  <image id="152" name="tile_06_08.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.10" ytl="0.00" xbr="371.90" ybr="46.92" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="tile_06_09.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="370.29,358.60;370.85,511.52;0.00,511.58;0.00,162.11;0.20,159.60;22.00,159.40;22.50,258.80;122.50,258.80;122.50,358.50" z_order="0">
+    </polygon>
+  </image>
+  <image id="154" name="tile_06_10.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,243.06;491.89,250.99;492.55,148.42;1.03,318.26;1.96,0.00;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="155" name="tile_06_11.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.90,0.00;511.52,203.59;0.00,377.20;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="505.10,257.80;0.87,429.92;0.87,512.00;512.00,512.00;512.00,279.70;511.70,257.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="156" name="tile_06_12.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,289.30;512.00,112.71;512.00,512.00;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="157" name="tile_06_13.jpeg" width="512" height="512">
+  </image>
+  <image id="158" name="tile_06_14.jpeg" width="512" height="512">
+  </image>
+  <image id="159" name="tile_06_15.jpeg" width="512" height="512">
+  </image>
+  <image id="160" name="tile_06_16.jpeg" width="512" height="512">
+  </image>
+  <image id="161" name="tile_06_17.jpeg" width="512" height="512">
+  </image>
+  <image id="162" name="tile_06_18.jpeg" width="512" height="512">
+  </image>
+  <image id="163" name="tile_06_19.jpeg" width="512" height="512">
+  </image>
+  <image id="164" name="tile_06_20.jpeg" width="512" height="512">
+  </image>
+  <image id="165" name="tile_06_21.jpeg" width="512" height="512">
+  </image>
+  <image id="166" name="tile_06_22.jpeg" width="512" height="512">
+  </image>
+  <image id="167" name="tile_06_23.jpeg" width="512" height="512">
+  </image>
+  <image id="168" name="tile_07_00.jpeg" width="512" height="512">
+  </image>
+  <image id="169" name="tile_07_01.jpeg" width="512" height="512">
+  </image>
+  <image id="170" name="tile_07_02.jpeg" width="512" height="512">
+  </image>
+  <image id="171" name="tile_07_03.jpeg" width="512" height="512">
+  </image>
+  <image id="172" name="tile_07_04.jpeg" width="512" height="512">
+  </image>
+  <image id="173" name="tile_07_05.jpeg" width="512" height="512">
+  </image>
+  <image id="174" name="tile_07_06.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="406.21,0.00;401.46,60.22;351.03,102.30;254.03,101.34;252.74,95.88;266.88,91.70;266.56,80.78;228.33,81.42;229.30,73.71;255.31,52.84;255.64,39.67;207.14,39.03;207.14,32.60;210.90,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="449.54,0.94;422.67,60.15;455.51,60.64;450.04,89.00;458.99,101.94;501.28,103.43;493.82,165.12;512.00,165.12;512.00,90.11;511.73,0.00;488.80,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="175" name="tile_07_07.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="510.53,20.79;498.59,27.26;492.62,46.66;474.22,46.17;454.32,67.56;440.39,68.06;445.36,151.14;425.46,151.14;427.95,172.03;444.37,172.03;449.34,221.78;456.46,243.57;461.93,256.31;449.09,256.01;449.84,276.66;472.23,276.46;486.95,316.71;497.25,361.33;476.55,361.58;476.75,380.24;487.15,380.44;487.55,391.03;484.51,394.72;467.30,466.06;466.65,468.05;447.05,467.85;447.45,485.86;455.86,490.29;456.01,498.99;452.92,498.44;452.78,512.00;477.72,512.00;511.98,511.83" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="398.47,160.59;301.22,162.36;301.99,189.25;304.00,200.66;307.31,224.24;260.38,225.40;261.92,243.74;264.70,243.97;265.70,255.37;269.94,255.60;270.63,264.85;290.13,308.39;242.96,310.01;246.05,318.87;248.13,318.79;253.06,349.38;253.29,359.33;236.72,416.12;228.40,447.71;220.31,469.98;211.76,490.48;211.46,512.00;408.56,512.00;408.03,494.95;413.96,484.01;429.53,443.86;450.03,354.70;445.94,319.41;436.54,298.99;410.19,236.03;404.95,215.76" z_order="0">
+    </polygon>
+  </image>
+  <image id="176" name="tile_07_08.jpeg" width="512" height="512">
+  </image>
+  <image id="177" name="tile_07_09.jpeg" width="512" height="512">
+  </image>
+  <image id="178" name="tile_07_10.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,160.80;0.56,243.40;176.86,185.42;176.45,0.04;172.60,0.00;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="267.18,0.00;268.03,151.85;274.05,152.71;511.83,70.15;512.00,41.97;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="179" name="tile_07_11.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="375.01,0.00;376.70,75.90;0.00,203.07;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,257.52;151.87,205.75;151.30,403.80;176.90,395.90;176.05,511.98;174.49,512.00;0.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="510.81,79.54;191.61,190.09;191.61,293.52;229.95,277.47;230.30,478.30;268.29,464.71;267.70,512.00;512.00,512.00;512.00,144.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="180" name="tile_07_12.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,112.59;110.94,77.99;108.55,178.26;175.39,150.80;175.39,252.26;262.53,221.23;263.30,324.20;325.80,302.10;324.59,399.08;374.73,383.56;373.59,512.00;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="181" name="tile_07_13.jpeg" width="512" height="512">
+  </image>
+  <image id="182" name="tile_07_14.jpeg" width="512" height="512">
+  </image>
+  <image id="183" name="tile_07_15.jpeg" width="512" height="512">
+  </image>
+  <image id="184" name="tile_07_16.jpeg" width="512" height="512">
+  </image>
+  <image id="185" name="tile_07_17.jpeg" width="512" height="512">
+  </image>
+  <image id="186" name="tile_07_18.jpeg" width="512" height="512">
+  </image>
+  <image id="187" name="tile_07_19.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="398.02,0.00;400.87,287.23;433.93,278.76;435.48,381.29;470.22,367.33;470.57,469.74;478.33,469.98;488.00,465.20;511.87,464.73;512.00,453.37;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="188" name="tile_07_20.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="278.35,0.00;279.70,313.50;330.90,298.30;331.90,401.00;401.40,382.00;400.30,512.00;512.00,511.46;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="189" name="tile_07_21.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="274.50,0.00;274.50,92.48;512.00,65.94;512.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="278.90,221.66;512.00,158.97;512.00,262.25;480.40,270.10;479.50,370.80;512.00,361.00;512.00,512.00;278.90,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="190" name="tile_07_22.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="275.70,148.20;512.00,149.34;512.00,248.80;441.80,249.20;442.30,349.60;276.60,350.70" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="276.00,401.90;512.00,376.80;512.00,512.00;275.80,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="191" name="tile_07_23.jpeg" width="512" height="512">
+  </image>
+  <image id="192" name="tile_08_00.jpeg" width="512" height="512">
+  </image>
+  <image id="193" name="tile_08_01.jpeg" width="512" height="512">
+  </image>
+  <image id="194" name="tile_08_02.jpeg" width="512" height="512">
+  </image>
+  <image id="195" name="tile_08_03.jpeg" width="512" height="512">
+  </image>
+  <image id="196" name="tile_08_04.jpeg" width="512" height="512">
+  </image>
+  <image id="197" name="tile_08_05.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="301.84,0.00;291.59,40.99;320.10,117.28;364.03,117.28;364.03,127.30;352.47,151.96;348.85,164.83;348.61,222.54;398.55,223.70;397.70,265.62;422.98,266.47;422.44,286.04;428.14,290.13;428.14,298.76;414.96,298.76;415.50,307.39;500.11,307.93;500.11,318.33;485.70,319.49;488.63,327.50;512.00,327.50;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="198" name="tile_08_06.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="128.76,0.00;512.00,0.00;512.00,352.16;512.00,512.00;301.20,512.00;301.20,503.90;255.70,504.40;256.04,494.68;242.80,494.00;242.78,484.33;192.65,484.33;192.65,472.31;164.47,471.07;163.92,463.06;166.82,463.06;167.37,434.33;161.02,407.81;143.50,407.80;142.80,400.70;143.10,397.50;141.00,384.80;112.50,385.20;95.10,291.70;79.26,291.53;75.50,273.00;93.07,273.16;88.80,250.30;40.10,249.80;29.27,187.95;14.22,187.40;9.11,166.68;0.00,166.68;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="199" name="tile_08_07.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="44.59,0.00;34.42,25.41;0.00,26.27;0.00,512.00;512.00,512.00;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="200" name="tile_08_08.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="220.24,0.81;238.12,28.44;179.60,27.63;180.90,51.20;209.67,51.20;225.93,82.08;130.84,81.27;153.60,124.34;109.71,123.53;102.10,137.10;103.21,156.04;127.59,156.04;127.59,166.60;79.90,167.10;103.70,219.70;54.40,219.60;60.10,239.60;48.10,240.10;50.40,263.30;23.40,263.30;44.78,323.94;36.70,323.90;36.97,344.42;55.67,344.66;80.70,451.60;54.20,451.80;54.10,470.70;62.90,469.17;64.44,480.22;45.60,511.50;169.76,512.00;512.00,512.00;512.00,0.00;252.62,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="201" name="tile_08_09.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="413.82,221.70;512.00,435.91;512.00,512.00;214.20,512.00;214.71,497.21;255.35,497.21;226.09,458.20;272.41,457.38;250.47,413.50;302.48,414.31;283.79,371.24;313.05,372.05;311.83,351.73;323.37,351.41;315.57,330.36;362.62,329.71;339.30,267.70;386.76,267.37;364.33,223.90" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="434.01,0.00;434.01,166.57;496.36,166.57;498.72,267.85;512.00,268.35;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="202" name="tile_08_10.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="425.43,0.00;425.43,24.89;80.62,142.05;80.98,39.94;0.00,70.02;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="436.10,479.20;436.10,512.00;508.46,512.00;508.01,478.60" z_order="0">
+    </polygon>
+  </image>
+  <image id="203" name="tile_08_11.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,82.34;101.10,46.24;100.28,148.64;188.87,116.94;189.70,217.20;287.70,183.30;287.40,283.10;377.41,251.85;378.23,351.00;419.40,337.60;426.60,337.60;426.67,512.00;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="204" name="tile_08_12.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="38.48,0.00;38.42,116.37;175.80,151.83;176.53,252.60;496.82,337.89;496.03,136.95;434.60,120.56;434.30,21.31;356.94,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="205" name="tile_08_13.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="37.50,426.00;37.35,512.00;275.15,512.00;354.90,511.35" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="275.30,342.80;275.20,444.10;371.30,468.90;370.60,367.60" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="320.20,0.00;320.88,79.34;332.52,79.49;332.87,177.85;382.57,178.15;383.47,277.40;394.66,276.95;395.41,377.30;469.64,377.50;470.13,477.35;511.72,477.05;512.00,472.60;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="206" name="tile_08_14.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,291.60;432.50,291.90;431.92,391.13;332.47,391.33;332.82,491.08;319.94,490.63;320.08,512.00;512.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="207" name="tile_08_15.jpeg" width="512" height="512">
+  </image>
+  <image id="208" name="tile_08_16.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="444.30,0.00;444.03,75.97;485.67,76.24;503.77,66.79;503.77,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="209" name="tile_08_17.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="357.83,0.00;357.57,87.26;339.36,87.26;340.29,165.31;323.61,165.60;323.72,186.24;288.42,186.48;288.42,286.07;323.72,285.69;323.43,364.39;341.49,385.20;392.29,385.47;392.20,486.85;444.69,486.56;444.50,512.00;512.00,511.56;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="210" name="tile_08_18.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="357.50,512.00;357.44,499.20;495.45,499.80;495.54,492.40;503.75,492.30;503.85,511.80" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="218.18,0.00;218.18,82.66;287.54,83.20;287.83,183.56;304.30,183.43;305.01,283.76;321.32,283.76;321.75,384.16;356.59,384.57;356.40,483.75;485.20,483.71;485.00,476.61;503.59,476.38;502.78,377.45;494.61,377.72;494.90,384.40;416.10,384.80;416.92,183.86;503.82,183.86;503.32,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="211" name="tile_08_19.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="503.42,294.89;365.07,294.35;364.75,192.41;278.94,191.80;277.70,93.75;236.03,94.22;131.33,121.94;131.64,162.98;10.43,162.93;11.71,464.54;87.46,463.91;121.37,464.07;122.00,424.10;137.34,421.94;154.69,416.36;166.44,416.04;166.85,512.00;377.60,512.00;503.66,511.60" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,127.44;0.03,142.51;225.51,81.13;225.32,27.05;503.34,26.95;503.24,0.32;349.90,0.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="212" name="tile_08_20.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="347.80,0.00;347.80,37.06;512.00,38.54;512.00,512.00;0.00,512.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="213" name="tile_08_21.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,162.58;399.22,55.15;399.22,151.03;425.88,150.17;425.88,145.87;442.65,145.87;442.65,46.98;504.13,46.98;503.70,349.21;422.95,349.17;227.53,401.37;228.17,448.88;347.96,448.24;349.23,512.00;0.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="189.35,0.00;189.35,44.67;0.00,66.67;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="214" name="tile_08_22.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="50.79,248.85;50.79,150.00;0.00,147.21;0.00,248.85" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="458.86,488.44;398.66,488.44;398.50,389.40;458.60,389.50" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,375.88;376.82,334.63;378.11,434.39;187.62,454.17;188.05,512.00;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="215" name="tile_08_23.jpeg" width="512" height="512">
+  </image>
+  <image id="216" name="tile_09_00.jpeg" width="512" height="512">
+  </image>
+  <image id="217" name="tile_09_01.jpeg" width="512" height="512">
+  </image>
+  <image id="218" name="tile_09_02.jpeg" width="512" height="512">
+  </image>
+  <image id="219" name="tile_09_03.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.67,188.43;454.50,188.07;364.53,71.05;364.35,64.41;373.30,64.20;373.20,40.30;350.73,40.22;332.28,0.00;512.00,0.00;512.00,186.59" z_order="0">
+    </polygon>
+  </image>
+  <image id="220" name="tile_09_04.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="231.27,0.00;202.80,48.06;202.80,53.26;245.54,53.63;244.80,68.50;238.11,68.50;238.48,79.65;231.16,79.61;231.53,89.49;226.33,89.79;226.66,97.22;268.73,97.30;268.84,110.12;262.45,110.49;250.33,132.49;250.74,139.52;291.25,139.92;291.36,152.23;284.93,152.52;271.85,173.89;272.04,180.69;321.35,180.91;431.80,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.78,36.58;507.14,36.58;494.28,57.96;494.75,64.78;501.25,64.47;501.10,88.63;475.54,88.63;430.31,163.75;430.77,170.88;437.13,170.41;437.28,195.66;410.33,195.66;352.07,292.56;352.20,298.82;360.64,298.82;360.30,323.46;333.10,323.70;300.82,376.45;300.94,382.59;317.95,425.40;337.62,425.40;337.56,449.56;324.05,449.76;334.54,512.00;512.00,512.00;512.00,48.89" z_order="0">
+    </polygon>
+  </image>
+  <image id="221" name="tile_09_05.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="178.97,8.84;161.67,76.74;143.17,77.04;143.27,100.74;156.07,100.74;155.77,107.74;129.69,170.35;132.39,265.54;106.47,264.50;106.24,277.69;112.60,296.90;75.35,328.37;63.54,333.11;56.49,342.60;56.60,370.60;5.23,370.72;4.88,363.66;13.68,328.95;0.25,328.25;0.00,327.28;0.00,0.00;181.20,-0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.26,375.10;442.14,491.14;410.49,492.52;411.47,512.00;238.15,512.00;215.98,511.65;215.48,492.36;198.49,492.55;198.27,484.86;245.99,406.55;201.77,406.86;201.57,399.25;233.78,347.95;233.69,344.57;223.98,344.65;223.67,325.77;249.49,325.36;260.29,302.87;215.29,302.37;215.09,295.65;247.88,263.37;247.79,260.37;210.79,260.37;210.57,252.57;233.55,230.92;233.55,226.98;229.61,226.61;229.61,209.93;267.42,210.12;267.42,200.08;279.97,199.91;279.41,186.28;243.41,185.20;242.85,178.92;277.44,146.86;277.39,142.64;240.05,142.42;232.86,132.26;232.67,115.46;274.75,115.27;274.44,105.47;299.15,80.38;259.45,79.77;259.26,73.08;294.46,41.65;294.35,39.15;257.15,39.07;256.96,31.57;268.86,31.27;268.45,16.97;262.26,17.17;261.85,0.00;512.00,0.00;512.00,370.17" z_order="0">
+    </polygon>
+  </image>
+  <image id="222" name="tile_09_06.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="510.92,143.67;438.76,143.25;446.85,197.79;413.88,199.24;413.88,230.35;402.06,230.35;319.53,305.62;319.74,314.33;283.45,314.95;283.45,335.06;283.24,346.84;274.56,346.55;274.64,357.56;262.94,357.85;263.54,366.15;291.95,365.65;292.55,379.46;280.34,378.96;279.95,389.56;268.35,389.56;268.65,397.35;270.55,397.56;270.84,408.05;281.15,408.26;281.42,431.15;374.71,431.11;374.81,444.80;313.12,444.80;276.42,479.63;276.88,486.60;314.22,487.22;314.06,500.22;302.74,500.52;302.67,512.00;512.00,512.00;512.00,150.56" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="278.11,0.00;274.65,27.98;272.72,36.97;272.40,37.48;272.53,106.67;272.53,112.16;257.40,112.71;258.62,129.95;267.20,129.95;267.20,144.28;264.24,144.70;264.37,155.39;262.38,155.39;257.37,176.01;250.34,175.79;228.98,211.05;229.14,216.00;247.45,216.00;247.73,239.51;255.25,239.32;255.25,251.91;241.54,252.20;241.95,259.71;249.66,259.52;249.53,272.66;243.72,272.27;243.91,284.90;239.58,284.70;239.99,294.24;290.84,293.92;302.98,261.58;340.30,261.38;340.30,252.68;340.40,249.08;354.08,249.18;353.89,241.66;346.21,240.67;346.31,217.38;376.69,217.67;393.84,185.01;399.66,184.91;418.35,148.42;418.35,132.62;512.00,132.34;512.00,66.63;468.65,66.29;468.39,35.78;374.86,35.91;375.13,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="209.51,0.00;181.87,61.04;158.49,61.73;158.96,84.18;169.95,84.29;170.18,91.00;161.85,106.86;155.83,165.63;136.97,165.86;137.44,190.05;155.02,190.05;169.84,271.36;151.91,271.09;152.44,294.51;174.14,294.25;186.70,385.06;169.00,385.26;169.50,410.46;190.20,410.16;193.15,459.85;191.34,469.96;171.44,470.26;171.34,495.16;184.84,495.55;184.64,504.16;183.14,511.85;181.77,512.00;0.00,512.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="223" name="tile_09_07.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="278.78,511.83;287.92,458.31;384.83,457.66;379.02,512.00;281.29,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="220.97,0.00;200.70,43.89;180.95,43.61;181.24,67.58;198.44,67.86;204.36,148.32;185.80,148.52;185.61,172.97;204.56,172.97;207.10,211.52;218.46,249.00;218.26,255.12;207.94,255.32;208.14,279.55;233.21,278.50;245.08,310.96;252.39,341.93;253.86,353.86;253.60,360.46;236.06,360.68;236.31,383.84;246.30,383.61;246.55,391.65;235.58,433.81;231.44,454.79;227.77,460.38;227.54,465.99;206.08,466.47;206.56,489.40;216.57,489.40;216.57,496.96;210.28,512.00;0.00,512.00;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="362.45,0.25;362.45,59.96;411.72,59.96;412.57,258.71;512.00,259.16;512.00,0.00;371.99,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="224" name="tile_09_08.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="289.21,0.00;287.68,371.45;312.34,371.21;312.73,472.36;362.68,472.05;363.30,512.00;512.00,512.00;512.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="7.61,0.00;55.00,0.28;55.33,7.13;55.20,9.78;62.93,9.78;70.01,19.83;70.31,27.23;61.66,27.07;62.15,51.61;91.25,51.93;139.55,127.77;139.87,134.23;132.01,134.06;132.30,156.91;153.87,156.74;180.63,210.88;186.14,231.34;186.14,239.82;174.95,240.15;175.28,262.33;196.98,262.01;217.24,315.69;217.50,323.45;210.29,323.71;210.71,346.98;228.66,347.11;239.40,380.00;249.18,420.69;252.58,432.50;252.97,450.84;227.68,451.20;228.04,473.39;239.56,473.65;239.46,480.21;221.84,512.00;0.00,512.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="225" name="tile_09_09.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,443.02;47.25,500.68;47.44,512.00;0.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="483.64,0.00;485.75,466.72;87.66,467.04;87.80,266.30;0.50,266.60;0.00,0.00" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="287.37" ytl="484.55" xbr="512.00" ybr="512.00" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="tile_09_10.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="484.10,512.00;483.79,280.32;138.07,280.48;137.45,379.90;37.63,379.67;37.63,479.56;0.00,478.95;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="227" name="tile_09_11.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="412.40" ytl="0.00" xbr="512.00" ybr="397.90" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="149.82,0.00;150.21,199.45;237.18,198.59;238.28,298.25;337.24,297.86;337.47,397.67;395.56,398.06;395.56,198.43;357.51,197.57;358.05,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="228" name="tile_09_12.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="395.64,310.59;300.98,310.86;300.64,410.66;176.01,410.66;176.01,510.53;150.09,510.26;150.01,512.00;395.37,512.00" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="411.88" ytl="310.59" xbr="512.00" ybr="512.00" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,10.77;215.98,9.26;216.99,111.35;153.81,110.34;152.80,210.92;59.29,210.92;59.04,111.40;0.00,112.19" z_order="0">
+    </polygon>
+  </image>
+  <image id="229" name="tile_09_13.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,0.02;204.56,0.02;204.50,178.80;216.74,178.64;217.41,478.39;0.00,479.69" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="275.95,0.00;275.05,177.68;249.69,177.68;249.87,377.77;512.00,378.48;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="230" name="tile_09_14.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="250.33,291.81;512.00,292.25;512.00,512.00;275.34,512.00;275.69,491.36;250.51,491.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="96.12,92.89;216.85,92.89;216.52,491.63;204.12,491.30;204.12,512.00;0.00,512.00;0.00,292.16;21.82,291.90;21.62,192.67;96.67,192.67" z_order="0">
+    </polygon>
+  </image>
+  <image id="231" name="tile_09_15.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.69,173.02;502.58,173.02;503.30,274.75;512.00,274.44;512.00,179.18" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="486.84,512.00;486.21,511.88;485.91,418.40;385.34,405.22;386.04,305.66;512.00,321.46;512.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="232" name="tile_09_16.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="-0.00,65.53;169.62,0.00;-0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="40.96,111.69;326.39,0.00;411.60,0.00;411.60,68.69;256.81,128.03;256.38,229.51;108.90,284.97;108.90,186.20;40.53,214.03" z_order="0">
+    </polygon>
+  </image>
+  <image id="233" name="tile_09_17.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="443.82,0.00;443.46,0.76;443.27,204.30;279.50,269.40;279.43,172.00;262.97,172.46;262.64,79.62;235.07,79.89;234.47,124.84;166.87,125.91;166.00,312.53;0.00,377.61;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="410.50,478.70;410.50,512.00;328.80,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="166.61,512.00;477.82,390.39;478.39,192.98;469.87,192.84;442.93,203.51;412.70,216.00;0.00,375.80;0.00,512.00" z_order="0" group_id="1">
+    </polygon>
+  </image>
+  <image id="234" name="tile_09_18.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,486.75;159.30,425.08;165.72,424.76;166.04,436.97;245.70,435.36;245.38,391.36;419.46,325.19;426.21,325.19;428.13,416.73;443.55,416.73;443.52,512.00;0.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,97.96;1.51,142.92;54.38,143.28;53.94,251.25;0.00,271.72;0.00,467.59;0.17,472.28;434.57,304.12;512.00,313.73;512.00,0.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="235" name="tile_09_19.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,27.55;433.47,16.11;294.67,66.36;295.16,104.67;219.05,106.16;218.55,88.25;191.19,88.75;191.83,187.16;217.21,187.16;225.36,187.16;225.36,203.47;295.46,204.32;295.01,267.10;156.56,320.88;157.41,419.34;60.69,457.15;60.69,353.52;0.00,354.15;0.00,512.00;512.00,512.00" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="129.58" ybr="26.47" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="tile_09_20.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="182.83,0.00;182.98,137.83;165.72,137.59;166.11,338.03;131.27,338.03;131.20,512.00;0.00,512.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="237" name="tile_09_21.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,47.75;131.30,47.12;131.30,147.69;235.20,147.02;235.20,248.26;217.89,248.92;219.08,348.29;183.85,348.89;184.40,512.00;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="238" name="tile_09_22.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="30.47,287.03;82.94,286.75;82.94,234.84;107.92,234.56;126.50,234.20;126.50,241.30;143.82,240.75;143.82,307.66;246.67,308.27;246.58,407.53;143.43,407.31;143.68,439.46;134.32,439.71;134.32,432.27;82.25,432.74;82.25,385.72;30.89,386.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="239" name="tile_09_23.jpeg" width="512" height="512">
+  </image>
+  <image id="240" name="tile_10_00.jpeg" width="512" height="512">
+  </image>
+  <image id="241" name="tile_10_01.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="351.90,0.42;133.16,212.25;83.65,211.10;83.08,204.19;125.10,168.50;82.68,168.50;82.68,162.11;118.59,126.83;28.97,126.42;28.97,119.57;131.43,21.95;91.19,21.95;90.56,13.83;104.39,0.00;321.80,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="242" name="tile_10_02.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,363.77;355.80,512.00;112.48,512.00;111.78,504.25;125.96,491.61;85.42,491.61;85.81,481.90;164.10,409.69;163.79,405.53;105.31,405.84;105.00,399.37;138.13,367.62;138.44,364.38;123.03,363.46;123.03,356.68;157.09,324.23;193.39,324.54;193.00,311.75;187.53,312.06;152.85,245.86;152.54,240.70;175.35,240.39;174.04,219.20;186.30,218.58;185.60,204.79;180.21,204.79;180.21,196.39;223.52,196.39;222.90,181.67;218.74,181.98;196.01,130.89;265.36,130.89;264.82,118.17;216.27,117.02;215.96,100.37;226.21,99.83;226.21,90.97;201.25,36.26;225.44,35.72;224.83,16.30;233.76,16.53;233.46,4.59;233.46,0.00;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="243" name="tile_10_03.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,464.62;489.75,463.66;489.90,470.94;499.19,471.73;498.89,484.14;409.52,484.73;409.37,495.43;318.76,495.29;318.76,501.64;324.64,501.79;324.40,512.00;512.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,163.31;497.00,163.31;497.37,171.49;512.00,171.49" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.91,184.08;474.24,185.52;474.24,192.48;485.50,192.50;485.52,203.03;496.31,203.03;496.55,215.51;507.11,215.99;507.35,225.59;512.00,226.30;512.00,184.58" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,237.59;429.14,237.82;429.14,245.74;440.17,245.74;440.17,256.54;451.45,256.78;450.97,266.37;462.49,267.09;462.96,278.13;473.52,278.37;473.76,288.21;483.36,288.45;483.60,298.04;494.87,298.04;494.63,309.08;504.95,309.08;504.95,319.40;512.00,319.28" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="356.00,311.50;356.30,320.16;365.89,319.92;366.13,329.52;375.73,329.52;375.25,339.84;385.81,340.32;386.29,353.75;297.03,354.23;297.03,361.43;307.11,361.43;307.59,371.03;316.23,371.27;316.71,381.82;325.35,382.30;325.11,396.22;310.47,396.46;311.43,407.02;256.73,407.73;256.97,415.89;266.80,416.61;266.56,427.65;246.41,427.89;246.65,436.05;344.54,436.53;345.02,425.73;366.13,425.25;365.41,415.89;454.18,415.89;453.94,405.34;512.00,406.20;512.00,374.58;452.50,310.57" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,189.75;42.33,188.35;42.73,182.38;4.03,128.05;4.03,125.57;91.14,125.17;91.49,117.51;71.79,92.93;112.28,92.03;112.43,85.77;103.87,80.94;103.68,74.12;144.72,72.88;154.92,61.39;154.37,42.73;133.58,42.48;125.22,18.65;170.69,17.76;165.39,0.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="244" name="tile_10_04.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,191.00;485.03,191.71;485.30,203.10;479.60,203.26;479.70,214.30;470.80,214.49;470.80,226.19;464.90,226.40;465.11,239.61;494.51,239.68;494.95,256.44;490.90,256.44;491.61,279.26;392.35,279.60;391.90,260.90;395.36,260.87;394.87,239.20;394.65,235.85;358.31,236.56;358.31,246.26;355.18,246.41;355.30,256.30;250.76,256.18;250.98,267.44;241.61,267.44;241.88,280.19;0.00,281.82;0.00,28.32;18.42,0.00;512.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,280.88;436.08,279.12;436.18,290.42;425.78,290.92;426.08,302.52;435.88,302.62;436.28,321.72;413.28,322.02;386.98,363.82;369.18,363.82;369.38,373.02;364.68,373.12;364.98,383.42;266.81,384.85;266.41,375.95;272.81,375.95;272.41,362.65;137.50,362.19;137.50,373.19;131.80,373.29;131.80,377.19;144.00,418.89;144.04,449.36;154.03,450.47;157.36,460.47;161.88,512.00;0.00,512.00;0.00,313.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="245" name="tile_10_05.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="336.57,0.02;337.00,19.37;343.36,19.42;343.45,27.03;251.05,112.34;208.31,112.59;208.74,136.46;216.74,136.20;216.61,143.85;145.75,208.26;109.28,208.48;109.28,232.00;112.42,232.00;112.42,238.02;55.79,291.04;34.94,322.77;0.00,322.98;0.00,348.21;16.15,347.79;16.02,355.49;8.62,355.49;8.75,365.47;2.35,365.38;2.35,376.26;0.00,376.53;0.00,0.00;336.46,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="498.44,0.00;428.52,62.06;428.32,72.84;423.76,72.43;423.76,94.41;393.48,94.20;314.27,167.81;314.06,177.56;310.54,177.56;311.51,198.27;279.72,199.25;209.37,263.49;209.70,273.11;205.20,272.80;205.20,294.96;175.96,294.63;117.19,348.59;117.51,355.66;124.91,355.97;124.91,378.78;98.24,378.78;46.90,463.98;47.00,470.68;54.12,470.78;53.80,494.59;27.91,494.78;21.60,505.58;21.60,512.00;512.00,512.00;512.00,58.44;498.65,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="246" name="tile_10_06.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="-0.00,131.19;22.29,130.57;22.29,112.11;6.94,111.70;7.15,68.98;0.00,68.81" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="305.72,0.00;305.09,56.29;255.94,57.58;262.05,98.69;195.24,99.01;195.24,121.82;120.11,122.65;121.21,144.04;1.11,143.43;0.00,149.55;0.00,512.00;367.55,512.00;373.02,510.90;450.75,442.04;450.75,409.02;485.43,409.02;512.00,384.82;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="247" name="tile_10_07.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,394.77;460.25,395.04;460.42,402.68;466.41,402.68;466.52,413.59;472.10,413.28;472.41,424.47;478.63,424.38;478.49,435.07;484.37,434.93;484.37,448.26;391.74,448.87;392.04,456.14;400.26,456.14;399.96,466.05;404.59,466.05;404.59,493.65;334.75,493.31;334.75,504.33;330.25,504.33;330.14,512.00;512.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,211.63;0.44,259.00;512.00,259.00;512.00,0.00;150.44,0.00;150.84,59.45;95.86,59.45;96.22,0.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="248" name="tile_10_08.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="125.83,0.32;125.83,73.50;151.02,73.50;150.68,271.70;125.80,271.44;125.85,471.91;150.51,471.70;151.02,512.00;512.00,512.00;512.00,371.13;511.96,370.95;458.07,370.48;458.53,0.00;132.03,0.00" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="98.92" ybr="512.00" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="tile_10_09.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="485.14" xbr="96.67" ybr="512.00" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="25.59,0.00;25.59,68.07;0.00,67.48;0.00,267.68;25.59,268.00;25.85,366.56;0.00,366.24;0.00,466.19;457.75,466.00;458.35,266.37;395.95,266.77;396.10,167.44;345.08,166.92;345.45,67.47;246.22,67.21;246.22,0.00" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="126.11" ytl="484.06" xbr="458.24" ybr="512.00" z_order="0">
+    </box>
+  </image>
+  <image id="250" name="tile_10_10.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,378.86;96.38,379.23;96.76,479.90;246.56,479.64;246.56,512.00;25.70,512.00;25.59,480.24;0.00,480.30" z_order="0">
+    </polygon>
+  </image>
+  <image id="251" name="tile_10_11.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.08,397.38;158.86,397.11;158.19,298.85;284.22,297.70;284.22,198.60;459.01,198.12;458.92,99.02;512.00,98.89;512.00,0.00;0.00,0.00;0.00,397.12" z_order="0">
+    </polygon>
+  </image>
+  <image id="252" name="tile_10_12.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="137.40" ytl="0.00" xbr="512.00" ybr="265.37" z_order="0">
+    </box>
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="310.93" xbr="512.00" ybr="512.00" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="tile_10_13.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="233.25,0.00;233.42,78.50;296.32,78.80;296.75,178.55;433.02,178.64;433.36,278.05;512.00,277.89;512.00,512.00;137.83,512.00;137.36,377.55;0.00,377.78;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="254" name="tile_10_14.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,496.33;424.38,493.02;423.97,393.35;374.84,390.41;374.55,290.93;512.00,297.55" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,271.33;374.12,263.66;373.55,162.97;224.75,142.09;224.36,42.36;0.00,11.55;0.00,0.00;512.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="233.68,512.00;233.68,491.49;145.87,490.85;146.22,391.57;8.75,391.74;8.62,291.68;0.00,291.55;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="255" name="tile_10_15.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.71,325.64;27.58,277.50;0.37,274.99;0.00,222.23;0.00,175.49;90.60,184.09;90.15,84.53;165.72,91.72;165.72,0.00;512.00,0.00;512.00,324.28" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,383.73;398.28,377.77;0.00,323.43;0.00,512.00;512.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="256" name="tile_10_16.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="165.96,512.00;166.22,504.08;236.79,512.00;265.74,512.00;266.02,414.84;356.10,423.91;512.00,439.00;512.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,211.44;402.29,200.30;402.67,300.44;340.56,294.63;340.69,394.10;456.39,404.86;469.15,404.97;478.04,407.27;481.65,407.35;489.84,407.35;489.84,408.06;503.13,408.37;503.13,409.76;512.00,409.76" z_order="0">
+    </polygon>
+  </image>
+  <image id="257" name="tile_10_17.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="26.78,0.00;27.67,130.05;61.90,134.74;63.15,233.16;69.85,233.16;114.87,244.73;115.35,260.38;131.90,260.94;131.90,275.08;148.76,275.30;149.49,290.22;166.81,290.22;167.07,300.97;174.81,300.97;174.90,241.03;329.65,240.81;329.65,227.61;347.02,227.48;347.11,221.47;364.00,221.12;364.00,215.10;381.93,214.63;381.72,202.03;400.34,201.90;400.34,187.58;416.20,187.32;416.55,172.45;434.65,172.58;434.65,158.64;452.80,158.34;452.32,144.41;469.18,144.07;469.05,129.84;469.18,128.80;488.27,129.11;487.97,115.69;504.39,115.60;512.00,115.47;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="258" name="tile_10_18.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,212.34;391.69,312.88;390.83,325.78;374.07,326.21;374.02,331.45;356.65,331.88;341.04,339.02;340.57,351.10;323.07,352.05;322.04,451.85;174.94,450.86;174.94,414.91;157.27,414.57;157.57,401.71;139.94,402.36;139.30,385.98;121.62,386.32;122.27,373.46;115.82,373.16;105.11,373.38;104.04,350.59;51.92,342.72;45.82,342.89;35.41,340.91;27.33,341.30;15.16,338.42;-0.00,338.87;0.00,438.43;27.93,438.30;27.65,512.00;512.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="-0.00,312.72;45.25,320.51;53.65,320.62;55.10,121.32;210.32,142.69;209.80,42.20;280.97,52.16;280.10,0.00;-0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="259" name="tile_10_19.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.02,24.48;512.00,91.66;512.00,392.70;511.92,393.46;382.00,377.51;382.12,475.83;276.95,462.82;277.48,512.00;0.00,512.00;0.00,24.77" z_order="0">
+    </polygon>
+  </image>
+  <image id="260" name="tile_10_20.jpeg" width="512" height="512">
+  </image>
+  <image id="261" name="tile_10_21.jpeg" width="512" height="512">
+  </image>
+  <image id="262" name="tile_10_22.jpeg" width="512" height="512">
+  </image>
+  <image id="263" name="tile_10_23.jpeg" width="512" height="512">
+  </image>
+  <image id="264" name="tile_11_00.jpeg" width="512" height="512">
+  </image>
+  <image id="265" name="tile_11_01.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.84,207.06;494.32,146.60;493.60,133.89;493.12,123.57;493.12,111.82;492.64,96.70;490.72,96.46;490.00,91.18;512.00,91.18;512.00,86.61;508.67,86.34;508.67,80.94;512.00,80.87;512.00,77.73;511.96,77.63;502.96,77.63;502.86,70.02;512.00,69.80;512.00,205.01" z_order="0">
+    </polygon>
+  </image>
+  <image id="266" name="tile_11_02.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="135.73,0.00;347.68,416.30;403.10,417.12;403.46,427.17;512.00,427.59;512.00,173.45;479.18,99.94;452.65,99.77;453.01,88.30;423.62,88.11;382.65,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="352.85,463.89;323.42,420.03;295.66,420.03;295.39,396.71;311.49,396.43;227.37,239.48;201.64,239.48;201.03,215.63;212.44,215.83;211.61,206.69;174.08,131.49;144.48,131.80;143.87,97.43;156.25,97.13;155.81,89.52;128.72,35.58;105.29,35.58;104.76,13.10;117.20,12.82;110.24,-0.00;0.00,0.00;0.00,354.45;14.32,354.07;13.82,343.96;24.81,343.96;24.81,333.47;38.41,333.25;38.11,323.06;91.10,322.76;91.41,332.56;97.01,332.56;97.32,345.66;102.32,345.85;102.62,355.46;94.41,355.46;94.71,365.06;112.31,365.37;112.70,377.67;105.81,377.47;105.90,385.16;111.42,385.16;111.53,398.82;97.65,398.82;98.01,417.56;129.60,418.03;129.72,427.52;157.48,469.97;352.93,470.41" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="478.90,0.00;479.10,11.00;471.60,11.20;471.60,17.90;482.10,17.90;482.00,28.80;493.30,28.80;493.60,39.30;504.50,39.10;504.80,50.20;512.00,50.21;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="267" name="tile_11_03.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="275.17,421.04;335.33,512.00;134.63,512.00;117.60,479.75;117.42,470.09;111.88,469.53;93.04,449.65;93.04,441.77;187.13,441.21;187.13,429.77;179.59,429.40;179.44,420.81" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="385.81" xbr="8.39" ybr="393.55" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,163.56;35.42,162.64;221.71,344.11;221.90,351.31;212.01,351.69;212.29,362.51;159.39,363.51;159.39,373.11;61.01,372.70;61.01,364.60;113.72,364.41;113.72,351.02;27.32,351.59;0.00,323.37" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,30.05;465.20,29.73;465.20,18.81;389.72,18.81;389.72,5.00;408.67,5.00;408.49,0.00;115.33,0.00;115.42,7.67;96.51,7.67;96.60,15.15;102.00,15.25;102.00,27.35;122.20,27.07;122.20,53.95;96.02,53.95;96.02,67.15;55.11,66.96;53.47,67.02;53.18,85.94;56.16,85.94;56.39,102.03;54.08,102.22;54.08,108.81;61.18,109.03;61.18,121.91;77.49,121.82;77.59,132.22;118.89,132.03;119.09,157.72;111.18,157.82;111.09,166.01;121.69,166.11;121.78,175.61;143.72,197.74;183.68,198.52;184.25,223.02;175.87,222.89;176.06,230.31;221.13,272.71;256.17,273.55;256.27,296.38;251.29,296.99;251.58,303.99;339.39,390.68;376.68,390.27;376.87,414.77;368.68,414.87;368.59,421.87;441.69,497.19;479.78,497.29;479.71,512.00;512.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="110.10,511.90;75.00,463.80;0.00,463.58;0.00,512.00;102.96,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="268" name="tile_11_04.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="134.88,464.88;134.88,476.28;125.55,476.07;114.35,507.80;114.35,512.00;409.18,512.00;408.93,508.61;313.52,506.31;313.52,495.02;318.44,494.82;318.44,486.92;224.13,485.92;223.92,473.52;235.00,473.40;234.90,464.30" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,192.23;49.42,191.88;49.42,173.60;42.79,173.95;42.07,161.41;79.70,160.15;80.06,141.70;63.75,141.70;63.57,129.33;70.03,129.15;90.99,87.03;113.76,86.85;113.43,66.93;106.64,66.82;106.64,54.72;112.73,54.72;147.73,0.00;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.83,233.50;482.59,233.93;512.00,306.57;512.00,235.81" z_order="0">
+    </polygon>
+  </image>
+  <image id="269" name="tile_11_05.jpeg" width="512" height="512">
+    <mask label="solar_panel" source="semi-auto" occluded="0" rle="0, 186, 34, 186, 34, 189, 31, 191, 29, 191, 29, 192, 28, 192, 28, 199, 21, 210, 4, 3, 3, 218, 2, 218, 2, 219, 1, 219, 1, 219, 1, 219, 1, 219, 1, 217, 3, 214, 6, 211, 9, 209, 11, 209, 11, 208, 12, 208, 12, 208, 12, 207, 13, 205, 15, 204, 16, 203, 17, 201, 19, 200, 20, 200, 20, 200, 20, 199, 21, 199, 21, 198, 22, 198, 22, 197, 23, 197, 23, 197, 23, 196, 24, 196, 24, 196, 24, 195, 25, 195, 25, 193, 27, 193, 27, 193, 27, 195, 25, 199, 21, 199, 17, 2, 2, 200, 16, 2, 2, 202, 2, 2, 2, 2, 2, 6, 2, 219, 1, 219, 1, 879, 1, 219, 1, 219, 1, 218, 2, 217, 3, 217, 3, 215, 5, 214, 6, 213, 7, 212, 8, 212, 8, 210, 10, 210, 10, 209, 11, 209, 11, 209, 11, 209, 11, 209, 11, 208, 12, 208, 12, 208, 12, 208, 12, 208, 12, 208, 12, 208, 12, 208, 12, 208, 12, 208, 12, 208, 12, 208, 12, 208, 12, 209, 11, 209, 11, 209, 11, 210, 10, 213, 7, 215, 5, 216, 4, 218, 2, 219, 1, 219, 1, 219, 1, 219, 1, 219, 1, 218, 2, 217, 3, 216, 4, 215, 5, 214, 6, 213, 7, 213, 7, 212, 8, 211, 9, 211, 9, 211, 9, 209, 11, 207, 13, 206, 14, 205, 15, 204, 16, 203, 17, 203, 17, 202, 18, 202, 18, 201, 19, 201, 19, 199, 21, 197, 23, 195, 25, 195, 25, 195, 25, 194, 26, 194, 26, 194, 26, 194, 26, 195, 25, 195, 25, 197, 23, 203, 17, 207, 13, 209, 11, 210, 10, 211, 9, 212, 8, 213, 7, 213, 7, 213, 7, 213, 7, 213, 7, 213, 7, 213, 7, 213, 7, 213, 7, 212, 8, 212, 8, 212, 8, 212, 8, 211, 9, 210, 10, 209, 11, 209, 11, 208, 12, 208, 12, 206, 14, 205, 15, 204, 16, 203, 17, 202, 18, 198, 22, 197, 23, 196, 24, 195, 25, 195, 25, 194, 26, 194, 26, 194, 26, 193, 27, 193, 27, 193, 27, 193, 27, 193, 27, 193, 27, 192, 28, 192, 28, 192, 28, 192, 28, 192, 28, 192, 28, 192, 28, 192, 28, 192, 28, 192, 28, 192, 28, 192, 28, 192, 28, 192, 28, 193, 27, 193, 27, 193, 27, 194, 26, 195, 25, 196, 24, 198, 22, 200, 20, 202, 18, 202, 18, 202, 18, 203, 17, 203, 17, 202, 18, 201, 19, 201, 19, 199, 21, 198, 22, 197, 23, 197, 23, 196, 24, 196, 24, 195, 25, 194, 26, 193, 27, 192, 28, 191, 29, 188, 32, 188, 32, 188, 32, 187, 33, 185, 35, 184, 36, 184, 36, 183, 37, 180, 40, 179, 41, 178, 42, 177, 43, 176, 44, 176, 44, 176, 44, 175, 45, 175, 45, 174, 46, 174, 46, 175, 45, 177, 43, 186, 2, 6, 2, 2, 22, 202, 18, 207, 13, 208, 12, 209, 11, 209, 11, 208, 12, 208, 12, 208, 12, 207, 13, 205, 15, 203, 17, 202, 18, 202, 18, 201, 19, 200, 20, 199, 21, 198, 22, 197, 23, 196, 24, 195, 25, 194, 26, 193, 27, 192, 28, 192, 28, 191, 29, 191, 29, 191, 29, 190, 30, 190, 30, 189, 31, 187, 33, 187, 33, 187, 33, 187, 33, 186, 34, 186, 34, 186, 34, 186, 34, 186, 34, 186, 34, 185, 35, 185, 35, 185, 35, 184, 36, 184, 36, 184, 36, 183, 37, 182, 38, 181, 39, 180, 40, 179, 41, 175, 45, 166, 1, 7, 46, 161, 7, 4, 48, 160, 60, 160, 60, 159, 61, 158, 62, 157, 63, 156, 64, 156, 64, 157, 63, 177, 43, 186, 34, 186, 34, 187, 33, 188, 32, 188, 32, 188, 32, 188, 32, 188, 32, 188, 32, 187, 33, 185, 35, 184, 36, 183, 37, 182, 38, 181, 39, 179, 41, 178, 42, 177, 43, 176, 44, 175, 45, 173, 47, 172, 48, 171, 49, 169, 51, 169, 51, 168, 52, 168, 52, 166, 54, 165, 55, 164, 56, 163, 57, 161, 59, 160, 60, 159, 61, 159, 61, 158, 62, 158, 62, 157, 63, 156, 64, 155, 65, 154, 66, 153, 67, 153, 67, 151, 69, 149, 71, 149, 71, 148, 72, 148, 72, 147, 73, 147, 73, 148, 72, 148, 72, 148, 72, 149, 71, 149, 71, 151, 69, 151, 69, 151, 69, 151, 69, 151, 69, 151, 69, 151, 69, 151, 69, 151, 69, 151, 69, 151, 69, 151, 69, 150, 70, 149, 71, 149, 71, 148, 72, 147, 73, 145, 75, 144, 76, 138, 2, 1, 79, 135, 85, 131, 89, 132, 88, 133, 87, 138, 82, 138, 2, 4, 76, 136, 84, 137, 7, 2, 74, 163, 57, 166, 54, 166, 54, 166, 54, 167, 53, 167, 53, 166, 54, 166, 54, 165, 55, 165, 55, 164, 56, 164, 56, 163, 57, 163, 57, 162, 58, 162, 58, 161, 59, 161, 59, 161, 59, 160, 60, 160, 60, 159, 61, 158, 62, 157, 63, 157, 63, 156, 64, 156, 64, 156, 64, 154, 66, 153, 67, 153, 67, 152, 68, 152, 68, 151, 69, 150, 70, 150, 70, 149, 71, 148, 72, 148, 72, 148, 72, 147, 73, 146, 74, 145, 75, 145, 75, 144, 76, 143, 77, 143, 77, 143, 77, 142, 78, 142, 78, 141, 79, 140, 80, 140, 80, 139, 81, 138, 82, 138, 82, 137, 83, 137, 83, 137, 83, 136, 84, 135, 85, 134, 86, 133, 87, 132, 88, 131, 89, 131, 89, 131, 89, 130, 90, 129, 91, 129, 91, 129, 91, 129, 91, 128, 92, 128, 92, 128, 92, 127, 93, 126, 94, 125, 95, 125, 95, 125, 95, 125, 95, 125, 95, 125, 95, 126, 94, 127, 93, 127, 93, 127, 93, 128, 92, 128, 92, 128, 92, 128, 92, 128, 92, 128, 92, 128, 92, 128, 92, 128, 92, 128, 92, 129, 91, 129, 91, 129, 91, 129, 91, 129, 91, 129, 91, 129, 91, 130, 90, 131, 89, 132, 88, 144, 76, 147, 73, 148, 72, 149, 71, 149, 71, 149, 71, 148, 72, 148, 72, 148, 72, 147, 73, 147, 73, 147, 73, 147, 73, 147, 73, 147, 73, 147, 73, 8, 7, 9, 7, 9, 7, 9, 2, 2, 2, 10, 7, 9, 6, 52, 74" left="0" top="0" width="220" height="512" z_order="0">
+    </mask>
+  </image>
+  <image id="270" name="tile_11_06.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="185.40,0.44;185.68,62.90;191.79,95.93;172.35,96.49;172.63,122.30;197.62,122.03;205.94,190.31;205.67,196.42;172.91,197.81;173.19,228.90;77.14,314.96;43.27,315.23;42.99,337.16;45.49,337.72;45.21,346.05;10.52,376.03;0.00,376.53;0.00,0.00;183.52,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.38,30.66;486.21,53.96;486.62,62.52;489.70,62.39;489.16,84.61;451.94,85.28;347.92,180.33;347.66,210.18;314.06,210.85;290.36,232.94;289.82,252.49;293.04,252.76;293.04,261.59;358.50,262.13;358.50,295.73;339.62,296.13;336.68,328.93;337.91,388.50;356.53,388.62;356.65,412.12;339.41,412.00;340.95,494.82;439.88,494.42;440.15,451.98;512.00,451.98;512.00,62.56" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,502.18;23.20,478.98;65.34,476.83;66.63,454.90;58.46,454.04;57.17,445.87;165.95,346.98;215.62,348.31;215.62,354.24;181.18,382.41;181.30,389.42;222.88,389.72;180.62,429.49;180.62,433.58;219.96,433.58;219.23,441.70;207.49,441.96;208.44,457.53;215.14,457.05;215.66,465.48;212.44,465.26;212.82,478.77;219.14,478.68;219.32,488.05;208.44,488.35;208.82,499.75;193.95,499.88;193.72,512.00;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="271" name="tile_11_07.jpeg" width="512" height="512">
+    <mask label="solar_panel" source="semi-auto" occluded="0" rle="43, 103, 43, 103, 43, 103, 43, 102, 44, 102, 44, 101, 45, 100, 40, 103, 39, 104, 41, 102, 44, 101, 45, 101, 44, 101, 45, 101, 45, 100, 46, 100, 44, 100, 40, 1, 2, 101, 39, 104, 41, 103, 42, 102, 43, 102, 44, 102, 44, 102, 44, 101, 45, 101, 42, 103, 42, 103, 41, 105, 37, 108, 37, 103, 42, 102, 43, 103, 43, 102, 44, 101, 45, 101, 45, 100, 47, 98, 49, 95, 56, 88, 77, 66, 85, 60, 89, 55, 92, 53, 93, 53, 93, 52, 94, 52, 93, 52, 87, 57, 84, 59, 87, 55, 91, 53, 92, 53, 93, 53, 93, 52, 94, 52, 94, 51, 95, 51, 93, 52, 92, 52, 90, 53, 91, 53, 92, 53, 92, 53, 93, 52, 94, 52, 94, 51, 95, 50, 96, 49, 95, 50, 94, 50, 90, 51, 92, 52, 94, 51, 95, 51, 95, 51, 95, 50, 96, 50, 96, 49, 99, 45, 115, 2, 2, 2, 124" left="176" top="0" width="146" height="81" z_order="0">
+    </mask>
+    <polygon label="solar_panel" source="manual" occluded="0" points="449.59,0.00;327.49,94.01;328.01,101.61;330.31,101.96;329.73,125.33;288.17,125.44;207.59,188.76;207.13,198.38;197.97,199.30;204.71,248.97;227.50,248.51;226.52,270.79;210.69,271.54;220.31,321.67;221.00,374.92;239.71,374.92;239.71,398.29;221.06,398.29;242.24,504.26;342.57,505.07;342.57,494.71;336.58,494.07;336.35,461.55;431.33,461.72;431.50,440.89;423.96,417.52;472.55,418.09;472.26,397.25;485.56,397.25;485.32,378.09;464.78,377.28;464.78,333.13;512.00,334.81;512.00,295.08;511.92,294.85;508.81,294.39;508.98,283.86;508.98,270.21;512.00,270.15;512.00,250.69;499.54,250.35;499.66,228.25;512.00,228.25;512.00,0.00" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="22.23" ybr="160.09" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,393.39;40.05,393.76;40.42,384.84;25.18,358.83;25.92,351.39;123.29,351.39;176.06,447.64;176.06,457.68;183.49,458.05;187.58,471.06;187.88,482.80;191.19,482.80;191.19,500.38;185.17,500.38;184.75,512.00;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="272" name="tile_11_08.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="469.08,394.79;369.52,394.15;369.20,404.43;355.38,404.11;355.71,414.07;342.54,414.71;342.54,425.63;328.73,425.31;328.40,435.58;253.89,436.23;253.89,425.95;237.83,424.34;217.59,389.01;208.60,342.76;202.50,310.96;202.24,309.81;196.14,309.81;196.04,299.82;187.53,299.63;186.73,287.71;176.42,286.91;175.94,276.73;159.33,275.92;156.92,267.12;131.61,266.32;130.71,254.82;78.84,256.20;79.64,264.42;107.81,265.00;108.33,276.11;126.54,276.31;127.02,287.42;136.62,287.71;137.23,296.70;146.74,297.22;146.84,308.01;152.84,308.33;160.52,348.61;163.54,369.81;168.61,390.20;176.42,405.81;176.23,413.23;184.32,413.33;184.03,424.50;156.63,425.11;156.54,433.82;169.22,433.91;169.13,446.02;156.73,446.22;156.54,456.11;191.13,456.72;191.32,467.41;177.93,467.70;177.83,478.30;164.63,478.82;164.53,488.42;224.53,488.13;224.53,508.91;220.32,508.72;220.15,512.00;319.65,512.00;319.48,507.34;322.37,507.34;322.46,485.85;361.26,485.43;361.58,476.25;376.26,476.25;376.26,465.74;386.28,466.10;386.83,456.04;402.08,455.24;401.96,445.32;415.19,444.93;415.19,434.36;429.00,434.08;429.39,424.05;440.79,424.05;441.08,413.17;457.84,413.52;457.84,401.60;469.31,401.51" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="370.50" xbr="21.06" ybr="512.00" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,467.88;503.03,467.40;502.55,477.96;489.12,477.48;489.12,508.19;447.13,508.19;446.97,512.00;512.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="273" name="tile_11_09.jpeg" width="512" height="512">
+  </image>
+  <image id="274" name="tile_11_10.jpeg" width="512" height="512">
+  </image>
+  <image id="275" name="tile_11_11.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,198.74;497.17,198.33;495.02,298.52;213.81,298.52;213.81,198.76;150.60,198.33;151.89,98.15;0.00,98.25;0.00,0.00;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="276" name="tile_11_12.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="310.73" xbr="512.00" ybr="512.00" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,265.27;434.73,264.64;434.73,165.19;321.81,165.19;322.13,65.44;222.06,65.28;222.21,0.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="277" name="tile_11_13.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="220.82,512.00;221.07,477.32;122.80,476.77;122.53,377.39;22.87,377.11;22.04,278.29;0.00,277.68;0.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,406.69;387.76,402.15;387.18,301.41;325.01,298.53;325.07,199.07;111.63,189.63;111.63,89.64;0.00,83.97;0.00,0.00;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="278" name="tile_11_14.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.72,270.97;512.00,294.45;512.00,0.00;0.00,0.00;0.00,266.88" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,297.80;512.00,321.10;512.00,512.00;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="279" name="tile_11_15.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,383.20;512.00,406.61;512.00,512.00;0.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,370.46;404.49,365.37;354.07,359.91;154.29,341.61;128.91,338.07;0.00,325.40;0.00,0.00;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="280" name="tile_11_16.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,455.82;390.49,450.01;0.00,409.90;0.00,210.15;28.45,213.44;28.70,113.89;91.80,120.83;91.07,20.56;141.21,26.06;141.21,0.00;512.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.67,483.23;490.52,482.87;404.32,478.39;0.00,439.10;0.00,512.00;512.00,512.00;512.00,483.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="281" name="tile_11_17.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.58,370.97;240.51,347.34;240.87,447.84;141.68,437.34;141.77,512.00;512.00,512.00;512.00,374.01" z_order="0">
+    </polygon>
+  </image>
+  <image id="282" name="tile_11_18.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.59,212.28;261.94,0.00;285.85,0.00;286.01,0.05;285.91,284.02;8.23,512.00;0.00,512.00;0.00,230.64" z_order="0">
+    </polygon>
+  </image>
+  <image id="283" name="tile_11_19.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.15,393.52;88.20,405.46;145.42,401.98;145.91,384.07;145.86,381.58;179.05,381.58;183.47,381.78;182.03,282.43;147.70,282.68;146.91,200.44;121.39,200.64;111.69,202.53;96.11,202.33;94.47,103.38;86.76,103.18;6.71,91.78;0.00,91.78;0.00,359.59" z_order="0">
+    </polygon>
+  </image>
+  <image id="284" name="tile_11_20.jpeg" width="512" height="512">
+  </image>
+  <image id="285" name="tile_11_21.jpeg" width="512" height="512">
+  </image>
+  <image id="286" name="tile_11_22.jpeg" width="512" height="512">
+  </image>
+  <image id="287" name="tile_11_23.jpeg" width="512" height="512">
+  </image>
+  <image id="288" name="tile_12_00.jpeg" width="512" height="512">
+  </image>
+  <image id="289" name="tile_12_01.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="109.24,0.00;109.54,6.56;18.12,6.93;18.49,13.99;25.92,14.74;25.92,25.51;15.15,26.26;15.89,45.21;46.73,45.58;47.18,57.10;54.80,56.99;54.65,68.88;0.00,69.21;0.00,204.02;0.13,206.46;13.59,206.35;13.59,215.94;56.29,216.31;56.40,229.28;109.50,229.83;109.84,238.42;163.76,237.94;164.21,247.52;216.98,247.52;217.31,256.93;335.56,256.67;336.27,269.86;309.55,270.56;309.77,279.26;380.94,279.11;381.49,291.15;350.06,290.93;350.50,300.78;512.00,299.73;512.00,241.23;511.82,238.98;500.67,238.20;500.67,228.12;447.38,227.34;447.24,216.98;404.94,216.68;404.50,206.27;388.37,205.98;384.21,176.39;372.24,144.03;370.64,122.32;371.98,117.94;372.24,102.52;369.57,96.50;369.31,91.29;361.39,90.48;360.98,80.96;339.02,49.26;310.11,48.96;309.40,24.85;320.14,24.85;320.14,17.19;306.03,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.76,204.89;420.22,204.73;420.07,194.05;395.28,193.27;383.36,144.02;400.71,144.02;400.09,131.93;449.34,132.71;449.96,144.02;512.00,143.64;512.00,203.91" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="371.97,0.44;417.78,71.23;512.00,71.23;512.00,0.00;376.11,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="290" name="tile_12_02.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,173.38;4.77,173.38;5.27,185.81;59.00,185.81;148.55,356.95;197.31,356.46;197.80,363.92;220.74,399.44;221.09,407.15;224.17,407.00;224.67,415.96;184.82,416.60;184.67,426.80;0.00,428.31" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,48.55;4.13,48.55;4.41,59.65;15.79,59.93;15.51,69.92;27.17,70.48;27.17,81.58;38.27,81.86;38.00,92.41;77.14,93.52;77.69,116.83;70.48,116.56;71.03,125.16;81.58,125.44;81.86,135.16;180.13,230.37;186.51,231.21;186.79,240.92;284.78,241.48;284.50,234.81;254.80,202.89;254.80,200.67;343.63,200.11;343.08,190.68;276.06,128.24;276.06,125.11;512.00,123.50;512.00,0.00;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="95.88,485.15;96.02,494.51;102.71,494.92;102.84,504.69;110.06,504.69;109.90,512.00;304.62,512.00;304.52,506.44;297.90,506.80;297.30,496.60;291.00,496.20;290.90,485.60" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="343.53,470.02;370.14,512.00;512.00,512.00;512.00,500.91;511.84,500.21;491.28,469.37" z_order="0">
+    </polygon>
+  </image>
+  <image id="291" name="tile_12_03.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,53.27;171.15,53.27;171.79,66.12;324.07,66.83;325.39,108.84;325.19,114.01;331.30,114.01;331.58,126.63;347.68,126.73;347.77,136.33;388.76,137.07;388.53,143.95;388.63,154.03;378.73,154.83;379.12,169.74;391.52,169.64;391.71,179.63;400.74,179.85;401.12,190.33;415.13,190.55;415.41,201.05;455.02,201.25;455.34,219.23;447.44,220.13;447.73,233.65;456.62,233.14;480.04,254.85;480.62,265.13;489.51,265.45;489.74,275.95;512.00,275.76;512.00,355.18;511.87,358.44;488.16,359.14;488.07,371.44;500.37,371.86;500.46,381.85;512.00,381.79;512.00,400.27;511.77,400.83;450.26,401.31;450.55,415.22;512.00,415.00;512.00,433.08;511.96,433.11;464.56,432.92;464.75,446.73;476.95,446.83;477.15,458.52;512.00,458.28;512.00,512.00;0.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="348.10,78.40;348.05,85.68;393.89,121.45;409.71,132.59;465.31,186.34;492.57,219.01;500.48,230.62;512.00,230.76;512.00,90.88;398.06,90.11;397.90,78.80" z_order="0">
+    </polygon>
+  </image>
+  <image id="292" name="tile_12_04.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="377.20,171.10;364.41,211.41;332.50,211.17;332.50,235.16;363.69,234.92;390.10,299.19;390.29,305.22;358.79,305.62;358.79,328.22;399.63,328.22;402.53,340.46;402.74,347.11;362.10,347.30;362.32,357.26;163.88,357.93;163.88,346.79;110.66,346.87;106.63,335.42;107.09,327.05;66.97,326.74;66.66,319.16;66.83,305.67;0.00,304.84;0.00,234.57;39.72,234.27;39.55,213.04;170.28,212.89;170.28,201.91;174.17,202.22;174.17,191.21;274.53,191.06;274.39,179.43;279.18,179.14;278.42,170.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="293" name="tile_12_05.jpeg" width="512" height="512">
+  </image>
+  <image id="294" name="tile_12_06.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="34.17,0.00;0.00,31.96;0.00,321.36;0.15,451.68;26.81,451.36;26.81,440.76;74.38,440.60;74.22,420.71;122.59,420.52;122.43,410.11;139.80,409.76;139.61,388.79;235.32,389.17;235.48,399.03;275.12,461.73;372.79,462.47;372.41,455.82;352.72,423.77;352.72,420.52;445.57,420.84;445.19,413.20;431.12,391.94;414.00,391.26;413.74,368.10;512.00,367.26;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="295" name="tile_12_07.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="232.03,0.00;232.03,8.40;217.60,8.40;218.60,19.35;302.68,20.34;302.68,25.82;206.16,102.93;111.98,103.63;111.98,123.38;167.90,124.27;168.30,132.68;79.89,199.69;79.89,226.76;0.00,227.81;0.00,250.63;9.80,250.54;9.90,270.54;0.00,271.07;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,105.03;476.20,106.01;372.23,202.53;372.23,209.00;379.19,209.00;379.19,232.38;337.90,232.88;208.05,350.78;207.55,380.14;174.72,380.14;69.25,480.14;69.15,486.60;70.94,486.70;71.10,512.00;512.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="296" name="tile_12_08.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="70.76,404.47;171.80,404.90;171.80,411.78;131.38,437.14;131.81,444.02;215.23,446.60;215.66,455.20;176.96,480.57;177.82,487.88;275.43,488.74;275.86,507.23;233.72,506.80;234.01,512.00;0.00,512.00;0.00,465.35;5.53,465.35;4.75,456.84" z_order="0">
+    </polygon>
+  </image>
+  <image id="297" name="tile_12_09.jpeg" width="512" height="512">
+  </image>
+  <image id="298" name="tile_12_10.jpeg" width="512" height="512">
+  </image>
+  <image id="299" name="tile_12_11.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="183.75,0.00;183.18,99.89;111.23,99.14;110.25,199.64;0.00,199.64;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="300" name="tile_12_12.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.10,310.51;36.52,310.89;37.63,410.48;136.48,410.11;136.30,510.11;184.31,509.30;184.31,512.00;0.00,512.00;0.00,311.52" z_order="0">
+    </polygon>
+  </image>
+  <image id="301" name="tile_12_13.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.07,406.23;247.02,419.47;247.36,319.37;298.13,320.98;296.98,222.21;322.02,223.19;321.67,123.43;335.89,124.47;335.43,25.17;372.39,26.78;371.54,0.00;0.00,0.00;0.00,405.06" z_order="0">
+    </polygon>
+  </image>
+  <image id="302" name="tile_12_14.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,295.58;435.01,316.18;435.25,215.65;459.01,217.33;459.97,117.05;409.58,114.65;410.30,14.12;359.68,12.44;359.68,-0.00;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,320.83;410.01,341.04;409.28,441.36;371.74,440.24;372.37,512.00;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="303" name="tile_12_15.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="359.63,424.72;359.92,512.00;0.00,512.00;0.00,407.12" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,369.19;263.11,382.65;262.05,182.55;250.68,182.01;251.48,82.31;238.09,82.02;238.09,0.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="304" name="tile_12_16.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="236.88,495.11;0.00,484.50;0.00,512.00;237.07,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="225.41,466.26;225.41,365.55;212.74,365.55;211.96,265.55;175.35,264.28;175.69,0.00;0.00,0.00;0.00,454.41" z_order="0">
+    </polygon>
+  </image>
+  <image id="305" name="tile_12_17.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="175.37,512.00;174.94,475.46;125.84,474.60;125.49,374.93;0.00,368.24;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="306" name="tile_12_18.jpeg" width="512" height="512">
+  </image>
+  <image id="307" name="tile_12_19.jpeg" width="512" height="512">
+  </image>
+  <image id="308" name="tile_12_20.jpeg" width="512" height="512">
+  </image>
+  <image id="309" name="tile_12_21.jpeg" width="512" height="512">
+  </image>
+  <image id="310" name="tile_12_22.jpeg" width="512" height="512">
+  </image>
+  <image id="311" name="tile_12_23.jpeg" width="512" height="512">
+  </image>
+  <image id="312" name="tile_13_00.jpeg" width="512" height="512">
+  </image>
+  <image id="313" name="tile_13_01.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.40,96.12;488.18,96.13;487.32,105.59;449.05,105.16;449.91,117.62;252.12,115.90;252.12,106.45;245.54,106.45;245.37,97.63;269.37,97.80;269.37,86.54;292.15,86.19;292.15,76.48;315.80,76.69;315.80,65.55;340.87,65.21;340.53,54.98;406.92,54.85;406.31,11.94;370.84,10.69;371.13,0.00;512.00,0.00;512.00,91.94" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.06,143.31;18.00,143.31;18.00,153.36;68.33,153.89;68.87,163.93;169.94,164.60;170.48,174.51;175.03,174.51;175.30,182.41;154.95,183.21;155.62,196.46;181.05,196.86;181.45,206.50;192.03,206.77;192.70,216.81;205.69,216.68;206.09,226.18;9.43,226.18;9.43,216.14;0.00,216.03;0.00,145.08" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.19,238.56;42.11,238.56;42.11,249.67;95.13,249.67;95.13,259.94;117.33,260.21;117.89,269.10;89.02,269.37;89.02,279.09;64.31,279.37;64.31,289.36;34.06,289.64;34.06,298.24;0.00,298.84;0.00,239.40" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,243.88;422.08,244.25;422.45,253.54;403.87,254.66;404.31,265.88;384.50,266.03;384.76,275.92;369.75,275.66;369.75,286.62;365.33,286.62;365.33,296.95;410.07,297.36;410.33,308.32;405.50,308.47;405.50,317.69;504.32,317.95;503.76,305.50;510.75,305.50;510.08,295.20;512.00,295.20" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,70.85;100.04,71.70;100.47,63.96;55.70,0.80;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="314" name="tile_13_02.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="43.41,0.86;43.41,7.60;35.90,8.05;35.90,21.22;46.75,20.74;47.08,31.27;58.38,31.75;57.90,40.27;18.26,41.04;18.43,52.18;30.50,52.50;30.34,63.49;41.04,63.20;41.17,73.25;52.18,74.02;52.60,82.95;13.61,83.98;13.83,95.38;54.05,95.61;54.88,115.91;46.98,117.16;47.20,127.12;0.00,127.81;0.00,0.00;43.37,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="504.73,186.47;456.04,186.47;456.04,197.99;435.60,197.99;435.23,207.28;415.91,207.65;416.28,216.94;395.47,218.43;395.47,228.46;376.51,228.83;377.26,239.61;357.19,240.35;357.56,250.01;338.98,249.64;338.61,260.42;320.40,260.79;320.77,270.82;305.16,271.57;305.91,280.86;294.01,281.60;294.39,290.15;294.68,292.53;281.60,293.12;281.27,300.63;300.37,301.11;300.70,324.93;278.70,325.27;278.96,331.18;367.81,512.00;512.00,512.00;512.00,411.41;511.67,409.48;508.55,404.94;508.37,398.96;497.78,378.37;497.85,374.77;512.00,374.87;512.00,293.46;490.68,293.05;490.49,280.56;504.39,280.45;503.80,268.74;512.00,268.82;512.00,260.63;511.97,260.57;439.65,259.97;439.36,248.79;456.67,248.49;456.67,238.68;476.85,238.68;476.56,226.38;496.77,226.49;496.77,216.49;512.00,216.49;512.00,207.16;511.97,207.09;486.18,207.17;486.07,197.58;504.95,197.39" z_order="0">
+    </polygon>
+  </image>
+  <image id="315" name="tile_13_03.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,101.66;12.11,101.33;12.11,112.43;27.58,112.76;27.58,125.21;42.37,125.54;42.37,135.63;55.83,135.97;55.83,144.71;18.16,144.71;17.82,157.83;31.28,158.16;30.94,166.91;43.05,167.58;42.37,178.34;53.14,178.34;53.81,188.77;11.43,189.10;11.37,200.07;20.65,200.23;21.05,212.14;31.04,212.14;31.14,222.83;37.73,222.57;37.93,231.14;0.00,231.71" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,393.32;38.26,393.73;38.05,400.58;0.00,400.39;0.00,414.89;27.06,415.09;27.27,425.05;37.84,425.25;37.84,432.30;0.00,432.15;-0.00,459.16;20.69,459.16;21.00,468.92;31.37,468.92;31.68,479.29;42.53,479.29;42.84,489.99;51.36,489.99;51.67,498.51;40.37,498.51;40.92,512.00;0.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.89,275.74;14.27,275.74;14.64,293.58;9.33,293.47;9.59,307.56;21.63,307.82;21.63,316.66;33.82,317.03;33.71,329.11;43.80,329.40;43.90,336.90;28.30,337.00;28.20,349.60;37.94,349.59;38.20,358.30;0.00,358.70;0.00,280.06" z_order="0">
+    </polygon>
+  </image>
+  <image id="316" name="tile_13_04.jpeg" width="512" height="512">
+  </image>
+  <image id="317" name="tile_13_05.jpeg" width="512" height="512">
+  </image>
+  <image id="318" name="tile_13_06.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="232.09,0.00;245.45,76.38;245.77,82.54;264.79,82.87;265.33,106.79;250.72,106.41;250.91,113.60;262.38,177.36;283.71,177.36;284.60,201.58;267.04,201.22;296.81,377.78;346.53,377.78;346.53,370.81;340.36,336.09;389.15,336.44;388.89,328.90;375.40,252.36;424.35,252.58;423.94,234.34;417.51,234.53;416.68,209.86;470.38,208.84;470.86,220.27;478.83,220.27;479.82,230.74;487.85,230.90;488.01,241.21;496.46,241.63;496.46,251.27;503.94,251.27;503.94,261.70;512.00,261.81;512.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="107.87,0.00;107.87,8.25;96.37,8.45;96.37,19.55;84.17,19.15;83.87,29.55;71.17,29.56;71.37,43.86;110.37,43.96;110.30,51.88;96.51,52.28;96.25,64.06;102.94,64.06;103.07,84.64;112.43,85.12;112.19,93.52;101.63,93.76;101.63,105.51;88.91,105.75;89.15,115.59;76.44,116.07;76.44,126.39;138.10,126.87;138.34,136.22;125.38,136.22;125.62,148.46;141.46,148.70;141.62,157.69;128.76,157.69;129.18,168.68;116.94,169.10;117.15,178.43;106.37,178.43;106.78,209.95;71.74,209.95;71.94,222.04;158.00,222.66;158.21,230.54;146.18,230.75;147.01,255.22;149.29,255.22;149.50,262.69;116.32,263.52;116.73,293.31;96.83,293.93;97.78,325.84;0.00,326.68;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="319" name="tile_13_07.jpeg" width="512" height="512">
+    <mask label="solar_panel" source="semi-auto" occluded="0" rle="1, 27, 1, 1, 311, 41, 301, 44, 297, 2, 1, 42, 295, 48, 293, 48, 294, 48, 293, 49, 291, 50, 292, 49, 292, 50, 292, 49, 293, 48, 293, 48, 292, 49, 292, 49, 293, 48, 293, 48, 293, 48, 293, 49, 292, 49, 293, 48, 293, 48, 293, 48, 293, 48, 293, 49, 292, 49, 292, 49, 292, 49, 292, 49, 293, 47, 294, 47, 295, 48, 293, 48, 293, 47, 294, 47, 294, 47, 295, 45, 296, 44, 297, 42, 299, 41, 301, 41, 4, 3, 6, 1, 287, 56, 285, 72, 3, 5, 2, 5, 253, 94, 247, 95, 247, 93, 1, 1, 246, 95, 246, 95, 246, 96, 245, 97, 245, 96, 245, 97, 244, 97, 244, 96, 245, 96, 245, 97, 244, 97, 245, 97, 244, 97, 244, 97, 244, 97, 244, 96, 245, 96, 245, 97, 244, 99, 243, 98, 243, 98, 243, 99, 242, 99, 243, 97, 244, 97, 244, 98, 244, 97, 246, 95, 246, 95, 245, 96, 245, 96, 245, 96, 245, 96, 245, 97, 244, 97, 245, 96, 245, 97, 244, 99, 242, 103, 238, 107, 234, 127, 6, 2, 2, 1, 202, 144, 197, 145, 197, 145, 196, 146, 195, 147, 194, 147, 194, 147, 195, 147, 193, 148, 194, 148, 194, 1, 1, 146, 196, 145, 195, 147, 194, 147, 193, 148, 194, 148, 194, 147, 194, 2, 1, 144, 198, 3, 1, 139, 208, 3, 1, 130, 212, 132, 1, 2, 207, 137, 203, 143, 198, 144, 198, 143, 198, 143, 198, 144, 196, 145, 197, 144, 196, 145, 196, 145, 196, 145, 197, 144, 197, 145, 195, 146, 195, 146, 196, 145, 195, 146, 195, 146, 194, 148, 2, 2, 188, 154, 6, 1, 178, 173, 4, 2, 155, 187, 150, 191, 150, 192, 148, 193, 148, 194, 148, 193, 148, 194, 147, 194, 147, 194, 147, 194, 147, 194, 147, 194, 147, 194, 147, 194, 147, 194, 147, 195, 147, 194, 147, 194, 148, 193, 148, 193, 147, 194, 147, 194, 147, 197, 145, 196, 145, 195, 146, 195, 146, 196, 146, 192, 1, 2, 146, 195, 146, 195, 146, 197, 5, 1, 138, 213, 4, 3, 5, 3, 114, 236, 105, 241, 100, 242, 99, 243, 99, 242, 100, 241, 100, 242, 100, 241, 100, 242, 99, 242, 98, 243, 98, 243, 99, 242, 99, 242, 99, 243, 98, 243, 98, 243, 98, 243, 99, 243, 98, 243, 98, 243, 98, 243, 98, 243, 98, 244, 97, 244, 97, 244, 97, 245, 96, 245, 97, 243, 98, 243, 98, 244, 97, 244, 98, 242, 99, 242, 99, 241, 100, 240, 101, 232, 1, 4, 104, 198, 143, 193, 149, 191, 151, 193, 148, 193, 147, 195, 146, 195, 147, 193, 148, 193, 148, 193, 149, 192, 151, 187, 2, 1, 158, 180, 2, 2, 159, 186, 2, 2, 153, 222, 3, 13, 3, 13, 3, 13, 4, 13, 55, 289, 52, 289, 52, 289, 51, 290, 51, 290, 51, 290, 51, 290, 51, 290, 52, 289, 52, 289, 52, 289, 52, 289, 52, 289, 52, 289, 52, 289, 52, 289, 52, 289, 53, 288, 53, 288, 53, 288, 49, 292, 44, 297, 43, 298, 43, 298, 42, 299, 42, 299, 42, 299, 43, 298, 43, 298, 44, 297, 44, 297, 44, 297, 44, 297, 44, 297, 44, 297, 44, 297, 44, 297, 44, 297, 44, 297, 45, 296, 45, 296, 45, 296, 45, 296, 45, 296, 45, 296, 45, 296, 46, 295, 46, 295, 47, 294, 47, 294, 47, 294, 47, 294, 47, 294, 47, 294, 47, 294, 47, 294, 47, 294, 47, 294, 47, 294, 48, 293, 48, 293, 49, 292, 48, 293, 48, 293, 49, 292, 49, 292, 49, 292, 49, 292, 49, 292, 49, 292, 50, 291, 50, 291, 50, 291, 50, 291, 50, 291, 51, 290, 51, 290, 51, 290, 51, 290, 52, 289, 52, 289, 52, 289, 52, 214, 1, 74, 52, 289, 52, 289, 52, 289, 52, 289, 52, 289, 52, 289, 53, 288, 53, 288, 53, 288, 53, 288, 54, 287, 54, 287, 55, 286, 55, 286, 55, 286, 55, 286, 55, 286, 55, 286, 55, 286, 55, 286, 55, 286, 56, 285, 56, 285, 56, 285, 56, 285, 57, 284, 57, 284, 57, 284, 57, 284, 57, 284, 60, 281, 62, 4, 2, 273, 69, 272, 69, 272, 73, 268, 76, 1, 1, 263, 78, 263, 78, 263, 78, 263, 79, 262, 79, 262, 79, 262, 79, 262, 79, 262, 79, 262, 79, 262, 79, 262, 79, 219, 1, 42, 79, 262, 79, 262, 79, 262, 80, 261, 80, 261, 81, 260, 85, 77, 2, 15, 1, 15, 1, 145, 215, 1, 7, 2, 5, 3, 6, 1, 6, 3, 29, 3, 5, 3, 5, 3, 6, 2, 5, 3, 28" left="171" top="158" width="341" height="353" z_order="0">
+    </mask>
+    <mask label="solar_panel" source="semi-auto" occluded="0" rle="0, 2, 2, 2, 99, 26, 2, 2, 2, 6, 2, 1, 64, 59, 46, 60, 45, 62, 43, 62, 43, 62, 43, 62, 43, 61, 44, 59, 46, 58, 47, 56, 49, 54, 51, 54, 51, 53, 52, 52, 53, 51, 54, 51, 54, 50, 55, 49, 56, 48, 57, 48, 57, 47, 58, 43, 62, 40, 65, 39, 66, 39, 66, 39, 66, 39, 66, 38, 67, 37, 68, 34, 71, 31, 74, 30, 75, 30, 75, 30, 75, 30, 75, 30, 75, 30, 75, 30, 75, 30, 75, 31, 74, 37, 68, 61, 44, 64, 41, 64, 41, 65, 40, 65, 40, 65, 40, 66, 39, 66, 39, 65, 40, 65, 40, 64, 41, 63, 42, 59, 46, 55, 50, 55, 50, 55, 50, 55, 50, 55, 50, 54, 51, 53, 52, 52, 53, 47, 58, 44, 61, 44, 61, 44, 61, 43, 62, 43, 62, 43, 62, 42, 63, 38, 67, 34, 71, 34, 71, 33, 72, 33, 72, 33, 72, 33, 72, 33, 72, 33, 72, 33, 72, 33, 72, 36, 13, 2, 54, 59, 1, 3, 42, 65, 40, 66, 39, 67, 38, 68, 37, 68, 37, 68, 37, 68, 37, 68, 37, 67, 38, 67, 38, 65, 40, 63, 42, 60, 45, 61, 44, 61, 44, 61, 44, 62, 43, 63, 42, 62, 43, 61, 44, 61, 44, 61, 44, 63, 42, 63, 42, 63, 42, 64, 41, 64, 41, 63, 42, 63, 42, 63, 42, 64, 41, 64, 41, 64, 41, 64, 41, 64, 41, 64, 41, 64, 41, 64, 41, 64, 41, 64, 41, 64, 41, 65, 40, 65, 40, 66, 39, 67, 38, 68, 37, 68, 37, 69, 36, 69, 36, 69, 36, 69, 36, 68, 37, 67, 38, 67, 38, 65, 40, 63, 42, 60, 45, 60, 45, 59, 46, 59, 46, 59, 46, 59, 46, 58, 47, 58, 47, 57, 48, 57, 48, 54, 51, 48, 57, 47, 58, 47, 58, 47, 58, 47, 58, 47, 58, 46, 59, 45, 60, 43, 62, 41, 64, 39, 66, 37, 68, 37, 68, 37, 68, 37, 68, 37, 68, 38, 67, 42, 6, 14, 2, 2, 39, 68, 37, 70, 35, 71, 34, 72, 33, 72, 33, 73, 32, 73, 32, 73, 32, 73, 32, 72, 33, 71, 34, 69, 36, 66, 39, 63, 42, 62, 43, 62, 43, 61, 44, 60, 45, 60, 45, 59, 46, 58, 47, 57, 48, 55, 50, 52, 53, 51, 54, 50, 55, 50, 55, 49, 56, 49, 56, 48, 57, 48, 57, 46, 59, 43, 62, 41, 64, 40, 65, 40, 65, 39, 66, 39, 66, 39, 66, 39, 66, 38, 67, 38, 67, 38, 67, 41, 64, 42, 63, 89, 1, 1, 14, 95, 10, 96, 9, 96, 9, 95, 10, 95, 10, 95, 10, 94, 11, 92, 13, 89, 16, 88, 17, 87, 18, 87, 18, 87, 18, 87, 18, 87, 18, 88, 17, 92, 13, 95, 10, 96, 9, 96, 9, 97, 8, 98, 7, 99, 6, 99, 6, 99, 6, 99, 6, 98, 7, 97, 8, 95, 10, 93, 12, 91, 14, 91, 14, 90, 15, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 89, 16, 90, 15, 90, 15, 91, 14, 91, 14, 92, 13, 94, 11, 96, 9, 97, 8, 100, 5, 101, 4, 101, 4, 102, 3, 102, 3, 101, 4, 100, 5, 100, 5, 97, 8, 95, 10, 93, 12, 92, 13, 92, 13, 92, 13, 92, 13, 92, 13, 91, 14, 90, 15, 88, 17, 83, 22, 82, 23, 81, 24, 81, 24, 81, 24, 80, 25, 80, 25, 80, 25, 78, 27, 76, 29, 73, 32, 69, 36, 68, 37, 68, 37, 68, 37, 68, 37, 68, 37, 68, 37, 68, 37, 68, 37, 69, 36, 69, 36, 75, 30, 104, 1, 104, 1, 104, 1, 104, 1, 104, 1, 104, 1, 104, 1, 103, 2, 99, 6, 97, 8, 96, 9, 95, 10, 95, 10, 95, 10, 94, 11, 94, 11, 93, 12, 92, 13, 89, 16, 85, 20, 83, 22, 83, 22, 83, 22, 82, 23, 82, 23, 81, 24, 81, 24, 81, 24, 80, 25, 79, 26, 77, 28, 73, 32, 72, 33, 71, 34, 71, 34, 71, 34, 71, 34, 71, 34, 71, 34, 71, 34, 72, 33, 73, 32, 87, 18, 102, 3, 104, 1, 104, 1, 524, 1, 104, 1, 103, 2, 99, 6, 97, 8, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 96, 9, 97, 8, 97, 8, 97, 8, 97, 8, 97, 8, 96, 9, 96, 9, 96, 9, 95, 10, 30, 3, 3, 4, 5, 4, 4, 3, 5, 3, 14, 3, 3, 4, 5, 12" left="0" top="104" width="105" height="408" z_order="0">
+    </mask>
+  </image>
+  <image id="320" name="tile_13_08.jpeg" width="512" height="512">
+  </image>
+  <image id="321" name="tile_13_09.jpeg" width="512" height="512">
+  </image>
+  <image id="322" name="tile_13_10.jpeg" width="512" height="512">
+  </image>
+  <image id="323" name="tile_13_11.jpeg" width="512" height="512">
+  </image>
+  <image id="324" name="tile_13_12.jpeg" width="512" height="512">
+  </image>
+  <image id="325" name="tile_13_13.jpeg" width="512" height="512">
+  </image>
+  <image id="326" name="tile_13_14.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="453.92" ytl="0.00" xbr="512.00" ybr="88.61" z_order="0">
+    </box>
+  </image>
+  <image id="327" name="tile_13_15.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="454.41" ytl="453.26" xbr="512.00" ybr="512.00" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,273.89;434.43,269.72;434.75,413.29;512.00,417.59" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="462.87,0.00;462.04,110.23;443.98,108.94;444.84,253.41;512.00,257.28;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="328" name="tile_13_16.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="231.61" ytl="0.00" xbr="275.63" ybr="139.03" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,462.11;407.83,460.51;406.55,315.33;324.97,315.65;324.97,169.51;440.60,170.41;512.00,174.46" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="462.30" ytl="478.07" xbr="512.00" ybr="512.00" z_order="0">
+    </box>
+    <box label="solar_panel" source="manual" occluded="0" xtl="369.54" ytl="9.16" xbr="498.08" ybr="156.35" z_order="0">
+    </box>
+  </image>
+  <image id="329" name="tile_13_17.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="320.96,342.77;321.33,488.45;221.73,488.45;220.62,509.26;215.42,509.26;121.02,492.91;121.02,489.60;115.30,488.34;114.67,344.00;122.73,349.24;215.38,364.44;221.88,364.29;221.55,342.92" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,92.27;479.59,92.27;479.59,236.80;442.97,237.12;443.94,382.30;512.00,382.02" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="277.76" ytl="15.08" xbr="409.63" ybr="161.61" z_order="0">
+    </box>
+    <box label="solar_panel" source="manual" occluded="0" xtl="232.31" ytl="504.86" xbr="275.21" ybr="512.00" z_order="0">
+    </box>
+  </image>
+  <image id="330" name="tile_13_18.jpeg" width="512" height="512">
+  </image>
+  <image id="331" name="tile_13_19.jpeg" width="512" height="512">
+  </image>
+  <image id="332" name="tile_13_20.jpeg" width="512" height="512">
+  </image>
+  <image id="333" name="tile_13_21.jpeg" width="512" height="512">
+  </image>
+  <image id="334" name="tile_13_22.jpeg" width="512" height="512">
+  </image>
+  <image id="335" name="tile_13_23.jpeg" width="512" height="512">
+  </image>
+  <image id="336" name="tile_14_00.jpeg" width="512" height="512">
+  </image>
+  <image id="337" name="tile_14_01.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="56.10,0.00;55.88,11.49;41.74,11.49;42.39,52.28;22.79,53.88;23.11,66.09;51.70,66.09;51.06,74.12;25.04,73.80;24.72,86.97;0.00,87.47;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,243.20;106.37,243.20;106.37,252.08;39.75,253.47;40.30,263.18;19.76,264.02;19.48,274.01;5.60,274.01;5.60,287.06;1.99,287.06;1.99,295.94;0.00,296.04" z_order="0">
+    </polygon>
+  </image>
+  <image id="338" name="tile_14_02.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="54.21,511.87;0.00,405.83;0.00,512.00;53.04,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,260.46;8.64,260.61;8.81,269.57;0.00,269.57;0.00,292.04;0.40,293.40;15.63,293.04;16.35,304.16;33.72,304.16;33.91,322.44;10.24,323.33;10.08,330.86;10.08,335.34;17.41,335.70;32.28,367.96;32.84,374.95;0.00,375.90" z_order="0">
+    </polygon>
+  </image>
+  <image id="339" name="tile_14_03.jpeg" width="512" height="512">
+  </image>
+  <image id="340" name="tile_14_04.jpeg" width="512" height="512">
+  </image>
+  <image id="341" name="tile_14_05.jpeg" width="512" height="512">
+  </image>
+  <image id="342" name="tile_14_06.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,268.56;158.43,483.77;210.06,483.02;209.72,476.69;184.04,441.75;221.23,442.15;221.23,435.07;196.30,400.54;238.32,400.13;238.67,392.71;212.48,359.55;212.42,356.56;263.54,357.02;263.59,350.00;238.09,318.39;238.09,316.09;279.77,315.92;279.60,307.80;254.10,276.09;254.27,273.21;275.05,272.57;274.59,264.46;266.30,264.46;265.67,251.62;278.56,250.99;278.56,243.74;253.69,212.19;148.53,210.75;148.76,199.35;261.75,198.72;261.35,178.00;279.37,177.60;279.60,170.98;273.15,139.66;273.15,136.96;317.53,135.92;317.30,105.01;328.12,104.38;328.52,85.50;321.90,84.46;320.64,63.56;268.83,63.33;263.42,19.59;211.79,19.18;209.17,0.00;0.00,-0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="343" name="tile_14_07.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="228.30,512.00;228.30,500.98;201.43,499.99;201.43,488.05;155.66,487.55;149.20,445.26;99.45,444.27;98.95,444.27;98.95,434.32;48.70,432.82;43.23,392.52;4.42,392.03;3.93,372.62;0.00,372.42;0.00,512.00;218.45,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="344" name="tile_14_08.jpeg" width="512" height="512">
+  </image>
+  <image id="345" name="tile_14_09.jpeg" width="512" height="512">
+  </image>
+  <image id="346" name="tile_14_10.jpeg" width="512" height="512">
+  </image>
+  <image id="347" name="tile_14_11.jpeg" width="512" height="512">
+  </image>
+  <image id="348" name="tile_14_12.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="305.82,0.00;307.33,75.37;512.00,133.28;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="349" name="tile_14_13.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="340.87,135.98;111.33,38.52;103.03,38.11;102.41,21.31;96.81,21.31;96.81,166.05;106.56,166.26;106.76,180.77;198.00,221.21;337.14,279.68;342.12,280.10" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="304.08,285.81;184.80,251.71;176.64,251.45;176.50,241.27;170.73,241.13;171.01,385.71;179.44,385.59;179.58,395.36;299.39,429.22;304.61,429.10" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="372.16,284.25;423.54,299.76;423.77,305.77;435.22,306.12;434.99,277.89;444.59,277.66;444.71,249.43;451.30,249.19;450.73,345.57;441.93,345.69;441.82,374.27;432.56,374.39;433.02,402.85;424.69,402.96;424.58,442.42;417.63,442.77;371.82,427.49" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="368.18,0.00;368.48,97.54;362.89,98.02;335.75,83.31;335.75,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.97,499.36;313.11,442.54;307.72,441.92;307.13,512.00;512.00,512.00;512.00,499.44" z_order="0">
+    </polygon>
+  </image>
+  <image id="350" name="tile_14_14.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="336.27,452.32;367.66,466.08;368.01,512.00;336.63,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="326.39,121.18;450.46,127.34;451.23,271.29;325.93,265.51" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="489.33,0.00;489.09,112.27;0.00,88.89;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.88,149.63;495.09,151.79;495.57,295.74;500.85,295.98;512.00,292.34;512.00,150.84" z_order="0">
+    </polygon>
+  </image>
+  <image id="351" name="tile_14_15.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="385.40,290.60;0.00,271.48;0.00,416.78;385.39,435.21" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="489.03,479.97;0.00,455.99;0.00,512.00;488.99,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,254.98;231.43,265.91;231.43,122.13;166.26,119.15;167.03,0.00;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="275.12,0.16;504.92,280.65;512.00,280.84;512.00,137.23;505.22,136.91;499.20,125.61;399.29,2.46;397.59,0.00;278.27,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="352" name="tile_14_16.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="138.49,201.67;138.86,345.48;276.24,512.00;389.71,512.00;389.60,503.98" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,173.99;102.33,178.75;102.98,323.52;111.93,324.22;111.93,467.30;0.00,462.70" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="166.95,511.69;167.48,487.14;0.00,479.45;0.00,512.00;162.41,512.00" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="68.97" ytl="0.00" xbr="139.26" ybr="30.67" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,426.58;442.78,418.72;424.96,404.01;351.08,359.40;350.92,350.10;332.96,350.10;333.11,205.43;338.11,205.63;338.21,207.24;345.90,207.24;439.51,266.04;439.51,275.74;456.51,275.44;512.00,283.03" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="195.61,0.03;196.23,16.13;187.09,15.05;187.09,158.36;243.32,166.69;271.21,169.70;512.00,169.38;512.00,0.00;196.17,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="353" name="tile_14_17.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,91.59;75.83,91.59;75.94,237.49;130.31,237.01;130.80,381.68;0.00,381.89" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,229.95;259.49,230.69;178.10,221.40;177.18,365.18;261.05,374.32;512.00,373.98" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,391.61;260.48,392.03;199.93,382.70;195.99,382.49;195.43,512.00;512.00,512.00" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="67.39" ytl="397.79" xbr="139.63" ybr="512.00" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="100.09,-0.00;100.30,66.71;109.07,69.42;512.00,10.77;512.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="354" name="tile_14_18.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,377.25;107.30,437.22;102.31,437.65;102.53,434.85;99.72,434.65;99.06,512.00;512.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="355" name="tile_14_19.jpeg" width="512" height="512">
+  </image>
+  <image id="356" name="tile_14_20.jpeg" width="512" height="512">
+  </image>
+  <image id="357" name="tile_14_21.jpeg" width="512" height="512">
+  </image>
+  <image id="358" name="tile_14_22.jpeg" width="512" height="512">
+  </image>
+  <image id="359" name="tile_14_23.jpeg" width="512" height="512">
+  </image>
+  <image id="360" name="tile_15_00.jpeg" width="512" height="512">
+  </image>
+  <image id="361" name="tile_15_01.jpeg" width="512" height="512">
+  </image>
+  <image id="362" name="tile_15_02.jpeg" width="512" height="512">
+  </image>
+  <image id="363" name="tile_15_03.jpeg" width="512" height="512">
+  </image>
+  <image id="364" name="tile_15_04.jpeg" width="512" height="512">
+  </image>
+  <image id="365" name="tile_15_05.jpeg" width="512" height="512">
+  </image>
+  <image id="366" name="tile_15_06.jpeg" width="512" height="512">
+  </image>
+  <image id="367" name="tile_15_07.jpeg" width="512" height="512">
+  </image>
+  <image id="368" name="tile_15_08.jpeg" width="512" height="512">
+  </image>
+  <image id="369" name="tile_15_09.jpeg" width="512" height="512">
+  </image>
+  <image id="370" name="tile_15_10.jpeg" width="512" height="512">
+  </image>
+  <image id="371" name="tile_15_11.jpeg" width="512" height="512">
+  </image>
+  <image id="372" name="tile_15_12.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="233.19,0.00;20.92,133.12;15.84,133.12;11.99,132.97;11.91,134.28;0.00,134.49;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.73,138.68;485.70,124.60;481.06,124.44;481.37,220.62;508.79,233.94;509.00,282.17;512.00,282.04;512.00,145.83" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="399.62,0.00;398.51,73.09;404.62,73.09;404.90,67.26;425.72,67.53;425.99,72.25;512.00,114.88;512.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="322.39,0.00;323.67,124.16;175.07,215.88;170.73,215.70;169.95,196.48;133.71,196.83;132.46,99.69;169.65,99.52;169.87,71.92;175.24,71.66;179.63,66.28;280.59,2.43;289.83,2.69;289.76,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="269.97,166.32;270.71,264.10;276.14,264.25;276.58,257.30;285.91,257.30;286.06,252.02;306.50,252.32;306.35,253.58;325.38,253.73;325.71,284.39;331.44,284.54;377.44,255.74;377.44,250.65;389.22,250.94;389.41,257.67;399.04,257.67;399.41,274.99;407.51,274.99;407.62,291.15;416.32,291.49;416.43,308.77;425.83,308.88;425.90,326.57;434.41,326.57;434.82,343.48;441.92,343.59;441.81,313.56;453.33,313.56;453.89,331.47;462.14,331.29;462.32,347.60;471.09,348.12;471.09,366.03;479.34,366.22;478.27,267.29;470.02,266.92;470.20,251.17;461.25,250.46;461.06,233.77;450.84,233.25;450.84,215.86;441.70,215.49;442.07,199.18;433.08,199.03;433.45,182.01;424.31,181.82;424.49,165.51;414.83,165.32;415.16,147.22;405.87,147.07;405.72,130.80;395.50,130.65;395.80,113.14;386.21,113.00;386.07,106.34;380.94,106.01;325.64,140.57;325.34,156.07;289.70,155.58" z_order="0">
+    </polygon>
+  </image>
+  <image id="373" name="tile_15_13.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="347.06,77.53;512.00,122.64;512.00,266.79;347.54,221.24" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="399.12,511.04;398.90,440.40;407.30,440.40;407.52,434.27;421.91,434.27;512.00,480.87;512.00,512.00;406.69,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="322.48,512.00;322.48,491.57;316.32,491.70;316.18,497.19;305.88,496.79;305.74,503.62;297.98,503.48;297.58,508.71;289.14,508.44;288.98,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="232.11,512.00;259.30,496.12;259.19,352.85;253.77,352.65;24.28,494.84;24.28,500.84;0.00,500.58;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="374" name="tile_15_14.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,146.10;11.82,146.34;12.06,144.90;176.16,102.67;179.52,102.67;185.69,102.51;185.78,101.71;188.28,101.71;188.28,105.60;197.68,105.41;199.34,248.02;194.64,248.21;194.64,244.20;185.74,244.11;4.83,290.46;0.00,290.58" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="337.63,265.51;512.00,312.36;512.00,457.15;338.63,409.23" z_order="0">
+    </polygon>
+  </image>
+  <image id="375" name="tile_15_15.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="511.70,302.34;305.31,292.89;306.13,437.01;376.00,440.58;376.10,421.70;512.00,426.01;512.00,305.29" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="450.20,-0.00;512.00,44.48;512.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="22.38,0.00;22.02,85.94;150.60,100.81;150.86,245.67;366.41,271.46;367.11,127.04;404.05,131.61;404.50,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,147.59;5.66,147.59;136.24,304.04;136.10,447.25;131.28,447.25;0.00,289.57" z_order="0">
+    </polygon>
+  </image>
+  <image id="376" name="tile_15_16.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="445.10" ytl="186.85" xbr="512.00" ybr="332.19" z_order="0">
+    </box>
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.16" ytl="0.00" xbr="512.00" ybr="169.88" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="404.34,500.52;21.65,452.80;21.29,512.00;404.69,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,282.67;407.48,335.28;412.55,335.41;412.76,343.71;421.06,343.79;512.00,409.89;512.00,512.00;451.84,512.00;445.18,508.43;407.73,479.76;0.00,427.56" z_order="0">
+    </polygon>
+  </image>
+  <image id="377" name="tile_15_17.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="391.71" xbr="512.00" ybr="512.00" z_order="0">
+    </box>
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="230.26" xbr="439.86" ybr="374.39" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="387.02,0.44;387.30,58.43;380.91,59.29;161.89,17.07;134.13,15.15;97.21,13.21;0.00,10.42;0.00,0.00;363.23,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="378" name="tile_15_18.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="386.80,512.00;386.80,426.06;154.97,383.27;0.00,376.81;0.00,512.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="379" name="tile_15_19.jpeg" width="512" height="512">
+  </image>
+  <image id="380" name="tile_15_20.jpeg" width="512" height="512">
+  </image>
+  <image id="381" name="tile_15_21.jpeg" width="512" height="512">
+  </image>
+  <image id="382" name="tile_15_22.jpeg" width="512" height="512">
+  </image>
+  <image id="383" name="tile_15_23.jpeg" width="512" height="512">
+  </image>
+  <image id="384" name="tile_16_00.jpeg" width="512" height="512">
+  </image>
+  <image id="385" name="tile_16_01.jpeg" width="512" height="512">
+  </image>
+  <image id="386" name="tile_16_02.jpeg" width="512" height="512">
+  </image>
+  <image id="387" name="tile_16_03.jpeg" width="512" height="512">
+  </image>
+  <image id="388" name="tile_16_04.jpeg" width="512" height="512">
+  </image>
+  <image id="389" name="tile_16_05.jpeg" width="512" height="512">
+  </image>
+  <image id="390" name="tile_16_06.jpeg" width="512" height="512">
+  </image>
+  <image id="391" name="tile_16_07.jpeg" width="512" height="512">
+  </image>
+  <image id="392" name="tile_16_08.jpeg" width="512" height="512">
+  </image>
+  <image id="393" name="tile_16_09.jpeg" width="512" height="512">
+  </image>
+  <image id="394" name="tile_16_10.jpeg" width="512" height="512">
+  </image>
+  <image id="395" name="tile_16_11.jpeg" width="512" height="512">
+  </image>
+  <image id="396" name="tile_16_12.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="140.32,187.48;135.60,187.48;135.88,179.71;127.27,179.16;0.00,114.79;0.00,0.00;59.30,0.00;85.63,12.79;132.02,36.28;132.38,43.91;140.82,43.69" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="141.80,208.90;3.37,138.69;0.00,138.69;0.00,282.25;136.62,351.81;142.43,351.81" z_order="0">
+    </polygon>
+  </image>
+  <image id="397" name="tile_16_13.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,481.16;57.56,509.80;57.74,512.00;0.00,512.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,121.48;75.70,142.93;84.00,143.01;84.10,141.62;89.30,141.62;89.08,285.51;79.87,285.51;79.87,287.31;0.00,266.29" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="335.20,0.00;334.94,37.75;340.77,37.75;340.88,32.47;350.07,32.47;429.54,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="246.20,221.68;240.99,221.45;94.51,312.74;94.63,318.41;85.49,318.52;85.64,462.57;92.34,462.44;92.46,456.55;101.97,456.14;101.97,450.92;110.27,450.25;246.28,365.38" z_order="2">
+    </polygon>
+  </image>
+  <image id="398" name="tile_16_14.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,310.65;62.97,328.15;62.94,472.87;57.19,472.87;0.00,456.28" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,168.66;174.28,306.61;166.52,306.68;166.52,307.78;114.81,308.58;115.19,165.71;170.14,166.12;170.33,163.85;512.00,24.23" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,478.60;428.49,512.00;337.02,512.00;334.54,511.90;334.47,407.16;326.12,406.93;286.33,427.04;257.42,439.09;239.02,447.98;225.14,448.24;225.01,305.82;512.00,188.05" z_order="0">
+    </polygon>
+  </image>
+  <image id="399" name="tile_16_15.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="512.00,326.91;0.00,303.08;0.00,425.40;51.94,429.81;51.94,449.09;512.00,471.15" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="417.79" ytl="78.71" xbr="512.00" ybr="223.62" z_order="0">
+    </box>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,41.55;0.07,43.65;97.93,113.87;103.11,114.22;424.08,56.60;424.32,0.00;0.00,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="400" name="tile_16_16.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,171.42;279.38,171.42;280.16,24.24;39.34,24.39;39.59,0.00;0.00,0.00" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="424.81,512.00;425.43,424.94;418.80,424.73;102.58,482.06;98.10,482.25;93.26,482.25;93.43,475.80;0.00,408.91;0.00,512.00" z_order="0">
+    </polygon>
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="187.25" xbr="350.72" ybr="331.36" z_order="0">
+    </box>
+  </image>
+  <image id="401" name="tile_16_17.jpeg" width="512" height="512">
+    <box label="solar_panel" source="manual" occluded="0" xtl="0.00" ytl="392.00" xbr="38.69" ybr="512.00" z_order="0">
+    </box>
+  </image>
+  <image id="402" name="tile_16_18.jpeg" width="512" height="512">
+  </image>
+  <image id="403" name="tile_16_19.jpeg" width="512" height="512">
+  </image>
+  <image id="404" name="tile_16_20.jpeg" width="512" height="512">
+  </image>
+  <image id="405" name="tile_16_21.jpeg" width="512" height="512">
+  </image>
+  <image id="406" name="tile_16_22.jpeg" width="512" height="512">
+  </image>
+  <image id="407" name="tile_16_23.jpeg" width="512" height="512">
+  </image>
+  <image id="408" name="tile_17_00.jpeg" width="512" height="512">
+  </image>
+  <image id="409" name="tile_17_01.jpeg" width="512" height="512">
+  </image>
+  <image id="410" name="tile_17_02.jpeg" width="512" height="512">
+  </image>
+  <image id="411" name="tile_17_03.jpeg" width="512" height="512">
+  </image>
+  <image id="412" name="tile_17_04.jpeg" width="512" height="512">
+  </image>
+  <image id="413" name="tile_17_05.jpeg" width="512" height="512">
+  </image>
+  <image id="414" name="tile_17_06.jpeg" width="512" height="512">
+  </image>
+  <image id="415" name="tile_17_07.jpeg" width="512" height="512">
+  </image>
+  <image id="416" name="tile_17_08.jpeg" width="512" height="512">
+  </image>
+  <image id="417" name="tile_17_09.jpeg" width="512" height="512">
+  </image>
+  <image id="418" name="tile_17_10.jpeg" width="512" height="512">
+  </image>
+  <image id="419" name="tile_17_11.jpeg" width="512" height="512">
+  </image>
+  <image id="420" name="tile_17_12.jpeg" width="512" height="512">
+  </image>
+  <image id="421" name="tile_17_13.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="198.72,0.00;197.89,95.77;128.22,119.36;127.72,0.00" z_order="0">
+    </polygon>
+  </image>
+  <image id="422" name="tile_17_14.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,169.04;21.28,162.28;22.18,17.83;17.41,18.04;0.00,24.87" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,480.43;131.19,423.73;131.90,280.37;125.99,280.18;77.78,301.87;76.70,160.66;70.79,160.28;0.00,188.20" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="127.90,486.33;127.90,512.00;199.21,512.00;198.84,464.00;192.15,463.88;155.99,475.66;147.30,478.75;137.11,481.54" z_order="0">
+    </polygon>
+  </image>
+  <image id="423" name="tile_17_15.jpeg" width="512" height="512">
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,79.26;132.03,78.97;132.00,83.70;142.21,83.66;142.63,228.23;135.80,228.20;135.70,222.20;0.00,222.72" z_order="0">
+    </polygon>
+    <polygon label="solar_panel" source="manual" occluded="0" points="0.00,326.90;202.83,253.98;203.83,399.24;12.30,464.90;12.40,470.10;0.00,470.20" z_order="0">
+    </polygon>
+  </image>
+  <image id="424" name="tile_17_16.jpeg" width="512" height="512">
+  </image>
+  <image id="425" name="tile_17_17.jpeg" width="512" height="512">
+  </image>
+  <image id="426" name="tile_17_18.jpeg" width="512" height="512">
+  </image>
+  <image id="427" name="tile_17_19.jpeg" width="512" height="512">
+  </image>
+  <image id="428" name="tile_17_20.jpeg" width="512" height="512">
+  </image>
+  <image id="429" name="tile_17_21.jpeg" width="512" height="512">
+  </image>
+  <image id="430" name="tile_17_22.jpeg" width="512" height="512">
+  </image>
+  <image id="431" name="tile_17_23.jpeg" width="512" height="512">
+  </image>
+  <image id="432" name="tile_18_00.jpeg" width="512" height="512">
+  </image>
+  <image id="433" name="tile_18_01.jpeg" width="512" height="512">
+  </image>
+  <image id="434" name="tile_18_02.jpeg" width="512" height="512">
+  </image>
+  <image id="435" name="tile_18_03.jpeg" width="512" height="512">
+  </image>
+  <image id="436" name="tile_18_04.jpeg" width="512" height="512">
+  </image>
+  <image id="437" name="tile_18_05.jpeg" width="512" height="512">
+  </image>
+  <image id="438" name="tile_18_06.jpeg" width="512" height="512">
+  </image>
+  <image id="439" name="tile_18_07.jpeg" width="512" height="512">
+  </image>
+  <image id="440" name="tile_18_08.jpeg" width="512" height="512">
+  </image>
+  <image id="441" name="tile_18_09.jpeg" width="512" height="512">
+  </image>
+  <image id="442" name="tile_18_10.jpeg" width="512" height="512">
+  </image>
+  <image id="443" name="tile_18_11.jpeg" width="512" height="512">
+  </image>
+  <image id="444" name="tile_18_12.jpeg" width="512" height="512">
+  </image>
+  <image id="445" name="tile_18_13.jpeg" width="512" height="512">
+  </image>
+  <image id="446" name="tile_18_14.jpeg" width="512" height="512">
+  </image>
+  <image id="447" name="tile_18_15.jpeg" width="512" height="512">
+  </image>
+  <image id="448" name="tile_18_16.jpeg" width="512" height="512">
+  </image>
+  <image id="449" name="tile_18_17.jpeg" width="512" height="512">
+  </image>
+  <image id="450" name="tile_18_18.jpeg" width="512" height="512">
+  </image>
+  <image id="451" name="tile_18_19.jpeg" width="512" height="512">
+  </image>
+  <image id="452" name="tile_18_20.jpeg" width="512" height="512">
+  </image>
+  <image id="453" name="tile_18_21.jpeg" width="512" height="512">
+  </image>
+  <image id="454" name="tile_18_22.jpeg" width="512" height="512">
+  </image>
+  <image id="455" name="tile_18_23.jpeg" width="512" height="512">
+  </image>
+  <image id="456" name="tile_19_00.jpeg" width="512" height="512">
+  </image>
+  <image id="457" name="tile_19_01.jpeg" width="512" height="512">
+  </image>
+  <image id="458" name="tile_19_02.jpeg" width="512" height="512">
+  </image>
+  <image id="459" name="tile_19_03.jpeg" width="512" height="512">
+  </image>
+  <image id="460" name="tile_19_04.jpeg" width="512" height="512">
+  </image>
+  <image id="461" name="tile_19_05.jpeg" width="512" height="512">
+  </image>
+  <image id="462" name="tile_19_06.jpeg" width="512" height="512">
+  </image>
+  <image id="463" name="tile_19_07.jpeg" width="512" height="512">
+  </image>
+  <image id="464" name="tile_19_08.jpeg" width="512" height="512">
+  </image>
+  <image id="465" name="tile_19_09.jpeg" width="512" height="512">
+  </image>
+  <image id="466" name="tile_19_10.jpeg" width="512" height="512">
+  </image>
+  <image id="467" name="tile_19_11.jpeg" width="512" height="512">
+  </image>
+  <image id="468" name="tile_19_12.jpeg" width="512" height="512">
+  </image>
+  <image id="469" name="tile_19_13.jpeg" width="512" height="512">
+  </image>
+  <image id="470" name="tile_19_14.jpeg" width="512" height="512">
+  </image>
+  <image id="471" name="tile_19_15.jpeg" width="512" height="512">
+  </image>
+  <image id="472" name="tile_19_16.jpeg" width="512" height="512">
+  </image>
+  <image id="473" name="tile_19_17.jpeg" width="512" height="512">
+  </image>
+  <image id="474" name="tile_19_18.jpeg" width="512" height="512">
+  </image>
+  <image id="475" name="tile_19_19.jpeg" width="512" height="512">
+  </image>
+  <image id="476" name="tile_19_20.jpeg" width="512" height="512">
+  </image>
+  <image id="477" name="tile_19_21.jpeg" width="512" height="512">
+  </image>
+  <image id="478" name="tile_19_22.jpeg" width="512" height="512">
+  </image>
+  <image id="479" name="tile_19_23.jpeg" width="512" height="512">
+  </image>
+</annotations>

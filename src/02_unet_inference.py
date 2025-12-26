@@ -30,7 +30,7 @@ INPUT_DIR = BASE_DIR / "data" / "pnoa-historic" / "PNOA2016"
 OUTPUT_DIR = BASE_DIR / "data" / "pnoa-segmentation" / "PNOA2016_09"
 
 IMAGE_SIZE = (512, 512)
-THRESHOLD = 0.9
+THRESHOLD = 0.5
 OVERLAY_COLOR = (0, 1, 0)  # Green
 
 # -----------------------------------------------------------------------------
