@@ -5,19 +5,34 @@ import xml.etree.ElementTree as ET
 from PIL import Image
 from dotenv import load_dotenv
 import re
+from pathlib import Path
 
 # Load environment variables
 load_dotenv()
-BASE_DIR = os.getenv('BASE_DIR')
 
-# Paths
-XML_PATH = os.path.join(BASE_DIR, 'data', 'aoi', 'pnoa_2022_aoi_annotations.xml')
-MASKS_DIR = os.path.join(BASE_DIR, 'data', 'pnoa-historic', 'PNOA_2022_masks')
-TILES_DIR = os.path.join(BASE_DIR, 'data', 'pnoa-historic', 'PNOA2022')
-OVERLAYS_DIR = os.path.join(BASE_DIR, 'data', 'pnoa-historic', 'PNOA_2022_overlays')
-FULL_OVERLAY_PATH = os.path.join(BASE_DIR, 'data', 'pnoa-historic', 'PNOA_2022_full_overlay.png')
+# =============================================================================
+# Script: generate_masks.py
+# Description: Parses XML annotations from CVAT and generates binary masks and
+#              visual overlays for solar panel ground truth.
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# CONFIGURATION & PATHS
+# -----------------------------------------------------------------------------
+BASE_DIR = Path(os.getenv("BASE_DIR", "."))
+
+# Input/Output paths
+XML_PATH = BASE_DIR / "data" / "aoi" / "pnoa_2022_aoi_annotations.xml"
+MASKS_DIR = BASE_DIR / "data" / "pnoa-historic" / "PNOA_2022_masks"
+TILES_DIR = BASE_DIR / "data" / "pnoa-historic" / "PNOA2022"
+OVERLAYS_DIR = BASE_DIR / "data" / "pnoa-historic" / "PNOA_2022_overlays"
+FULL_OVERLAY_PATH = BASE_DIR / "data" / "pnoa-historic" / "PNOA_2022_full_overlay.png"
+
+# Visualization settings
 MAX_PNG_SIZE = 3400
-
+# -----------------------------------------------------------------------------
+# PROCESSING FUNCTIONS
+# -----------------------------------------------------------------------------
 def decode_rle_mask(rle_str, width, height):
     """Decodes CVAT RLE mask format."""
     counts = [int(x) for x in rle_str.split(',')]
@@ -31,7 +46,9 @@ def decode_rle_mask(rle_str, width, height):
         val = 255 if val == 0 else 0
         
     return mask.reshape((height, width))
-
+# -----------------------------------------------------------------------------
+# MAIN MASK GENERATION
+# -----------------------------------------------------------------------------
 def generate_masks():
     print(f"Reading annotations from: {XML_PATH}")
     if not os.path.exists(XML_PATH):
@@ -147,7 +164,9 @@ def generate_masks():
     print(f"Finished! Generated {count} masks in: {MASKS_DIR}")
     print(f"Generating stitched overlay...")
     stitch_overlays()
-
+# -----------------------------------------------------------------------------
+# MOSAIC GENERATION
+# -----------------------------------------------------------------------------
 def stitch_overlays():
     """Stitches generated overlays into a single mosaic."""
     if not os.path.exists(OVERLAYS_DIR):
@@ -236,5 +255,8 @@ def stitch_overlays():
         
     print(f"Saved stitched overlay to: {FULL_OVERLAY_PATH}")
 
+# -----------------------------------------------------------------------------
+# EXECUTION
+# -----------------------------------------------------------------------------
 if __name__ == "__main__":
     generate_masks()

@@ -1,73 +1,83 @@
 # Solar Panel Segmentation & Temporal Analysis
 
-This project implements a methodology for the automatic detection of photovoltaic solar panels using historical PNOA (Plan Nacional de Ortopotografía Aérea) orthophotos and convolutional neural networks (U-Net). It also enables temporal analysis of the installed surface area within a specific study area.
+This project provides a complete pipeline for the automatic detection of photovoltaic solar panels using high-resolution PNOA (Plan Nacional de Ortopotografía Aérea) orthophotos. It leverages Deep Learning (U-Net) to identify solar farms and enables spatio-temporal analysis of their expansion over time.
 
-## Features
+## Key Features
 
-- **Automated Download**: Fetch historical mosaics via WMS (IGN) for different years.
-- **Deep Learning Segmentation**: Inference using a U-Net model (EfficientNetB1) to segment solar panels.
-- **Spatial Analysis**: Calculation of surface area in hectares, growth deltas, and temporal evolution rates.
-- **Geospatial Visualization**: Results exported in georeferenced GeoTIFF format (EPSG:25830) and PNG previews.
-- **Centralized Configuration**: Global paths and parameters managed via environment variables.
+- **Automated Data Acquisition**: Download historical mosaics (2016, 2019, 2022) directly via IGN WMS services.
+- **Deep Learning Inference**: Segmentation using a U-Net model with an EfficientNetB1 backbone.
+- **Temporal Analysis**: Calculation of solar surface area (m²/ha) and growth rates across different periods.
+- **Rigorous Validation**: Tools to compare predictions against manually annotated Ground Truth (IoU, Dice Score).
+- **Advanced Visualizations**:
+    - **Evolution Maps**: Color-coded expansion tracking.
+    - **Error Diagnostics**: Spatial Confusion Matrix overlays (TP, FP, FN).
+    - **SIG Ready**: Export of georeferenced GeoTIFF mosaics (EPSG:25830).
 
 ## Project Structure
 
 ```text
-solar-panels-segmentation/
-├── data/                  # Input data, models, and intermediate results
-├── output/                # Final mosaics, GeoTIFFs, and evolution plots
-├── src/                   # Processing scripts
-│   ├── 01_download_pnoa.py      # Step 1: WMS tiles download
-│   ├── 02_unet_inference.py     # Step 2: Segmentation with U-Net
-│   ├── 03_calculate_solar_area.py # Step 3: Area and evolution analysis
-│   └── 04_merge_tiles.py        # Step 4: Mosaic and GeoTIFF creation
-├── unet/                  # Model training
-│   └── unet_solar_panels.ipynb  # Notebook with the training process
-├── .env                   # Environment variables (private)
-├── .env.example           # Environment variables template
-├── requirements.txt       # Project dependencies
-└── README.md              # Documentation
+├── data/
+│   ├── figures/           # Evolution maps, growth charts, and visual comparisons
+│   ├── metrics/           # CSV reports (IoU scores, area statistics)
+│   ├── models/            # Pre-trained U-Net weights (.h5)
+│   ├── pnoa-historic/     # Raw imagery tiles (JPEG) and Ground Truth masks
+│   └── pnoa-segmentation/ # Output: UNet binary masks filtered by threshold
+├──src/                    # Pipeline Core Scripts
+│   ├── 01_download_pnoa.py      # Automated WMS tile downloader
+│   ├── 02_unet_inference.py     # Segmentation inference engine
+│   ├── 03_calculate_solar_area.py # Solar surface & growth analysis
+│   └── 04_merge_tiles.py        # Mosaicing and GeoTIFF export
+├── utils/                 # Validation & Visual Toolbox
+│   ├── generate_masks.py    # Tool: Convert XML (CVAT) → PNG Masks
+│   ├── calculate_metrics.py # Tool: IoU & Dice Score Calculator
+│   ├── calculate_area.py    # Tool: Ground Truth Area Statistics
+│   ├── error_map.py         # Viz: Spatial Confusion Matrix (TP/FP/FN)
+│   ├── evolution_map.py     # Viz: Temporal Expansion Map
+│   └── comparison_grid.py   # Viz: Side-by-side Validation Grid
+├── unet/                  # Reference Notebook: Model Training (unet_solar_panels.ipynb)
+├── env.example            # Template for environment variables (copy to .env)
+├── requirements.txt       # Python dependencies
+└── README.md              # Project documentation
 ```
 
-## Installation and Setup
+## Setup & Configuration
 
-1. **Clone the repository** and install dependencies:
+1. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-2. **Configure the environment**:
-   Copy the `.env.example` file to `.env` and adjust the paths for your system:
-   ```bash
-   # Edit .env
-   BASE_DIR=/path/to/your/project/solar-panels-segmentation
-   CRS=EPSG:25830
-   WMS_URL=https://www.ign.es/wms/pnoa-historico
-   ```
+2. **Environment Configuration**:
+   Rename `env.example` to `.env` and configure:
+   - `BASE_DIR`: Absolute path to the repository.
+   - `CRS`: Coordinate system (default: `EPSG:25830`).
+   - `WMS_URL`: IGN historical PNOA service URL.
 
-## Workflow
+## Workflow Execution
 
-Scripts are numbered to follow the logical execution order:
+### 1. Data Processing
+Run the numbered scripts in sequence:
+- `python src/01_download_pnoa.py`: Fetch JPEG tiles for the study area.
+- `python src/02_unet_inference.py`: Apply the model to generate binary masks.
+- `python src/03_calculate_solar_area.py`: Generate growth summary CSVs and charts.
 
-1.  **Download**: Run `01_download_pnoa.py` to download aerial images of the area of interest (AOI).
-2.  **Segmentation**: Run `02_unet_inference.py` to generate detection masks for the downloaded images.
-3.  **Analysis**: Run `03_calculate_solar_area.py` to obtain the temporal evolution table and the growth plot.
-4.  **Export**: Run `04_merge_tiles.py` to merge tiles into a single GeoTIFF compatible with QGIS/ArcGIS.
+### 2. Validation Suite
+If Ground Truth is available:
+- `python utils/generate_masks.py`: Prepare GT from XML annotations.
+- `python utils/calculate_metrics.py`: Quantify model performance.
+- `python utils/error_map.py`: See where the model succeeds or fails spatially.
+
+### 3. Spatial Synthesis
+- `python utils/evolution_map.py`: Create the final expansion map.
+- `python src/04_merge_tiles.py`: Generate georeferenced mosaics for GIS software.
 
 ## Data Sources
 
-The model has been trained and validated using the following datasets:
+- **PNOA Imagery**: Provided by the Spanish [IGN](https://www.ign.es/wms/pnoa-historico). Access via WMS.
+- **Solar Dataset (Kaggle)**: [PNOA 2022 Aerial Imagery - Photovoltaic Segmentation](https://www.kaggle.com/datasets/mrhendley/pnoa-2022-aerial-imagery-photovoltaic-segmentation).
+- **Standard**: Follows [PV03 dataset](https://www.kaggle.com/datasets/salimhammadi07/solar-panel-detection-and-identification) guidelines for solar panel semantic segmentation.
 
--   **PV03 Dataset**: A photovoltaic (PV) dataset from satellite and aerial imagery. The dataset includes three groups of PV samples collected at the spatial resolution of 0.8m, 0.3m and 0.1m, namely PV08 from Gaofen-2 and Beijing-2 imagery, PV03 from aerial photography, and PV01 from UAV orthophotos.
-    -   **PV03 (Aerial)**: Ground samples categorized into shrub land, grassland, cropland, saline-alkali, and water surface.
-    -   **Official Document**: [Preprint ESSD](https://essd.copernicus.org/preprints/essd-2021-270/)
-    -   **Download**: [Zenodo (Version 5171712)](https://zenodo.org/record/5171712)
--   **PNOA (Spain)**: Historical aerial orthophotos provided via WMS by the Spanish IGN.
-
-## Technologies Used
-
-- **Deep Learning**: TensorFlow, Keras, Segmentation Models.
-- **GIS & Remote Sensing**: Rasterio, GeoPandas, PyProj, OWSLib.
-- **Image Processing**: OpenCV, Pillow (PIL).
-- **Data Analysis**: Pandas, NumPy, Matplotlib.
-- **Model Training**: Jupyter Notebooks.
+## Tech Stack
+- **Deep Learning**: TensorFlow, Keras.
+- **Geospatial**: Rasterio, GeoPandas, Shapely.
+- **Analysis**: OpenCV, Pandas, NumPy, Matplotlib.
