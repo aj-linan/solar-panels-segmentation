@@ -25,8 +25,8 @@ This project provides a complete pipeline for the automatic detection of photovo
 ├──src/                    # Pipeline Core Scripts
 │   ├── 01_download_pnoa.py      # Automated WMS tile downloader
 │   ├── 02_unet_inference.py     # Segmentation inference engine
-│   ├── 03_calculate_solar_area.py # Solar surface & growth analysis
-│   └── 04_merge_tiles.py        # Mosaicing and GeoTIFF export
+│   ├── 03_merge_tiles.py        # Mosaicing and GeoTIFF export
+│   └── 04_calculate_solar_area.py # Solar surface & growth analysis
 ├── utils/                 # Validation & Visual Toolbox
 │   ├── generate_masks.py    # Tool: Convert XML (CVAT) → PNG Masks
 │   ├── calculate_metrics.py # Tool: IoU & Dice Score Calculator
@@ -59,7 +59,8 @@ This project provides a complete pipeline for the automatic detection of photovo
 Run the numbered scripts in sequence:
 - `python src/01_download_pnoa.py`: Fetch JPEG tiles for the study area.
 - `python src/02_unet_inference.py`: Apply the model to generate binary masks.
-- `python src/03_calculate_solar_area.py`: Generate growth summary CSVs and charts.
+- `python src/03_merge_tiles.py`: Generate georeferenced mosaics for GIS software.
+- `python src/04_calculate_solar_area.py`: Generate growth summary CSVs and charts.
 
 ### 2. Validation Suite
 If Ground Truth is available:
@@ -69,7 +70,6 @@ If Ground Truth is available:
 
 ### 3. Spatial Synthesis
 - `python utils/evolution_map.py`: Create the final expansion map.
-- `python src/04_merge_tiles.py`: Generate georeferenced mosaics for GIS software.
 
 ## Data Sources
 

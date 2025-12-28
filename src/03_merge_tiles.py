@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # =============================================================================
-# Script: 04_stitch_enhanced.py
+# Script: 03_merge_tiles.py
 # Description: Unified script to stitch tiles into GeoTIFF and/or PNG mosaics.
 # Supports multiple folders, georeferencing, and scaling for previews.
 # =============================================================================
@@ -45,7 +45,7 @@ OUTPUT_GEOTIFF_DIR = BASE_DIR / "data" / "raster"
 OUTPUT_PNG_DIR = INPUT_BASE_DIR 
 
 # Export options: "geotiff", "png" (can include both)
-EXPORT_TYPES = ["png"]
+EXPORT_TYPES = ["geotiff","png"]
 
 # PNG specific settings
 MAX_PNG_SIZE = 3400  # Maximum dimension (width or height) for the PNG export

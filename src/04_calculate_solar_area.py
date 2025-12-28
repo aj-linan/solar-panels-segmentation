@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # =============================================================================
-# Script: 03_calculate_solar_area.py
+# Script: 04_calculate_solar_area.py
 # Description: Calculates solar panel surface area and temporal evolution metrics.
 #              Refactored to handle multiple thresholds and years.
 # =============================================================================
