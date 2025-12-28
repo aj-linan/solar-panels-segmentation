@@ -92,7 +92,7 @@ def process_all_data():
             if stats:
                 threshold_results.append({
                     'year': year,
-                    'threshold': f"0.{threshold}",
+                    'threshold': f"{int(threshold)/10}",
                     'area_ha': stats['total_area_ha'],
                     'study_area_ha': stats['study_area_ha'],
                     'coverage_pct': stats['coverage_pct']
@@ -121,7 +121,7 @@ def plot_evolution_by_threshold(df, threshold, output_path):
     """
     Generates an evolution plot for a specific threshold.
     """
-    data = df[df['threshold'] == f"0.{threshold}"].sort_values('year')
+    data = df[df['threshold'] == f"{int(threshold)/10}"].sort_values('year')
     if data.empty: return
 
     years = data['year'].astype(str).tolist()
@@ -154,7 +154,7 @@ def plot_evolution_by_threshold(df, threshold, output_path):
             ax2.annotate(f'{rate:.1f}%', (years[i], growth_rates[i]), 
                         textcoords="offset points", xytext=(0,10), ha='center', color='red', fontweight='bold')
 
-    plt.title(f'Solar Surface Evolution (Threshold 0.{threshold})', fontsize=14, fontweight='bold')
+    # plt.title(f'Solar Surface Evolution (Threshold 0.{threshold})', fontsize=14, fontweight='bold')
     plt.grid(axis='y', linestyle='--', alpha=0.6)
     fig.tight_layout()
     
@@ -233,7 +233,7 @@ def plot_combined_evolution(df, output_path):
     lines2, labels2 = ax2.get_legend_handles_labels()
     ax1.legend(lines1 + lines2, labels1 + labels2, loc='upper left', ncol=2, frameon=True, shadow=True)
 
-    plt.title('Evolution of Solar Area Across All Thresholds', fontsize=16, fontweight='bold', pad=20)
+    # plt.title('Evolution of Solar Area Across All Thresholds', fontsize=16, fontweight='bold', pad=20)
     plt.grid(axis='y', linestyle=':', alpha=0.5)
     fig.tight_layout()
     
